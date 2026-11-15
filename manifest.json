@@ -1,0 +1,5279 @@
+{
+"artifact\\guild\\barricade\\barricade_01.bsr": {
+"bytes": 65648,
+"glb": "artifact/guild/barricade/barricade_01.glb",
+"height": 15.726124092936516,
+"meshes": 2
+},
+"artifact\\guild\\barricade\\barricade_02.bsr": {
+"bytes": 91868,
+"glb": "artifact/guild/barricade/barricade_02.glb",
+"height": 15.726126953959465,
+"meshes": 2
+},
+"artifact\\guild\\barricade\\barricade_03.bsr": {
+"bytes": 122444,
+"glb": "artifact/guild/barricade/barricade_03.glb",
+"height": 15.726129457354546,
+"meshes": 2
+},
+"artifact\\guild\\barricade\\barricade_04.bsr": {
+"bytes": 115324,
+"glb": "artifact/guild/barricade/barricade_04.glb",
+"height": 15.726134292781353,
+"meshes": 2
+},
+"artifact\\guild\\barricade\\barricade_05.bsr": {
+"bytes": 134364,
+"glb": "artifact/guild/barricade/barricade_05.glb",
+"height": 15.726143203675747,
+"meshes": 2
+},
+"artifact\\guild\\barricade\\barricade_06.bsr": {
+"bytes": 85380,
+"glb": "artifact/guild/barricade/barricade_06.glb",
+"height": 15.726126000285149,
+"meshes": 2
+},
+"artifact\\guild\\barricade\\barricade_07.bsr": {
+"bytes": 118032,
+"glb": "artifact/guild/barricade/barricade_07.glb",
+"height": 15.72612850368023,
+"meshes": 2
+},
+"artifact\\guild\\barricade\\barricade_08.bsr": {
+"bytes": 59336,
+"glb": "artifact/guild/barricade/barricade_08.glb",
+"height": 15.726125046610832,
+"meshes": 2
+},
+"artifact\\guild\\barricade\\barricade_09.bsr": {
+"bytes": 80508,
+"glb": "artifact/guild/barricade/barricade_09.glb",
+"height": 15.726127909496427,
+"meshes": 2
+},
+"artifact\\guild\\defensive\\big_defensive_position_00.bsr": {
+"bytes": 25604,
+"glb": "artifact/guild/defensive/big_defensive_position_00.glb",
+"height": 21.67609539628029,
+"meshes": 1
+},
+"artifact\\guild\\defensive\\big_defensive_position_01.bsr": {
+"bytes": 72720,
+"glb": "artifact/guild/defensive/big_defensive_position_01.glb",
+"height": 182.0419878065586,
+"meshes": 2
+},
+"artifact\\guild\\defensive\\big_defensive_position_02.bsr": {
+"bytes": 74932,
+"glb": "artifact/guild/defensive/big_defensive_position_02.glb",
+"height": 182.0419878065586,
+"meshes": 2
+},
+"artifact\\guild\\defensive\\small_defensive_position_00.bsr": {
+"bytes": 19464,
+"glb": "artifact/guild/defensive/small_defensive_position_00.glb",
+"height": 13.074450582265854,
+"meshes": 1
+},
+"artifact\\guild\\defensive\\small_defensive_position_01.bsr": {
+"bytes": 52404,
+"glb": "artifact/guild/defensive/small_defensive_position_01.glb",
+"height": 109.16570761054754,
+"meshes": 2
+},
+"artifact\\guild\\defensive\\small_defensive_position_02.bsr": {
+"bytes": 54612,
+"glb": "artifact/guild/defensive/small_defensive_position_02.glb",
+"height": 108.53601191937923,
+"meshes": 2
+},
+"artifact\\guild\\flag\\aggressive_flag.bsr": {
+"bytes": 53168,
+"glb": "artifact/guild/flag/aggressive_flag.glb",
+"height": 58.78888197988272,
+"meshes": 1
+},
+"artifact\\guild\\flag\\aggressive_flag_up.bsr": {
+"bytes": 71328,
+"glb": "artifact/guild/flag/aggressive_flag_up.glb",
+"height": 61.72394561767578,
+"meshes": 1
+},
+"artifact\\guild\\flag\\defensive_flag.bsr": {
+"bytes": 57328,
+"glb": "artifact/guild/flag/defensive_flag.glb",
+"height": 58.78888197988272,
+"meshes": 1
+},
+"artifact\\guild\\flag\\defensive_flag_up.bsr": {
+"bytes": 73664,
+"glb": "artifact/guild/flag/defensive_flag_up.glb",
+"height": 61.72394561767578,
+"meshes": 1
+},
+"artifact\\guild\\flag\\healing_flag.bsr": {
+"bytes": 53608,
+"glb": "artifact/guild/flag/healing_flag.glb",
+"height": 58.78888197988272,
+"meshes": 1
+},
+"artifact\\guild\\fort_stone\\fort_stone_bj.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"artifact\\guild\\fort_stone\\fort_stone_ht.bsr": {
+"bytes": 145024,
+"glb": "artifact/guild/fort_stone/fort_stone_ht.glb",
+"height": 170.3006362915039,
+"meshes": 2
+},
+"artifact\\guild\\fort_stone\\fort_stone_ja.bsr": {
+"bytes": 118424,
+"glb": "artifact/guild/fort_stone/fort_stone_ja.glb",
+"height": 277.6802318096161,
+"meshes": 2
+},
+"artifact\\guild\\guard tower\\blaze_tower_02.bsr": {
+"bytes": 306048,
+"glb": "artifact/guild/guard tower/blaze_tower_02.glb",
+"height": 356.00755310058594,
+"meshes": 4
+},
+"artifact\\guild\\guard tower\\blaze_tower_03.bsr": {
+"bytes": 302324,
+"glb": "artifact/guild/guard tower/blaze_tower_03.glb",
+"height": 353.7632751464844,
+"meshes": 4
+},
+"artifact\\guild\\guard tower\\dark_tower_02.bsr": {
+"bytes": 300440,
+"glb": "artifact/guild/guard tower/dark_tower_02.glb",
+"height": 356.00755310058594,
+"meshes": 4
+},
+"artifact\\guild\\guard tower\\dark_tower_03.bsr": {
+"bytes": 295832,
+"glb": "artifact/guild/guard tower/dark_tower_03.glb",
+"height": 353.7632751464844,
+"meshes": 4
+},
+"artifact\\guild\\guard tower\\freezing_tower_02.bsr": {
+"bytes": 309428,
+"glb": "artifact/guild/guard tower/freezing_tower_02.glb",
+"height": 356.007568359375,
+"meshes": 4
+},
+"artifact\\guild\\guard tower\\freezing_tower_03.bsr": {
+"bytes": 304496,
+"glb": "artifact/guild/guard tower/freezing_tower_03.glb",
+"height": 353.7632598876953,
+"meshes": 4
+},
+"artifact\\guild\\guard tower\\guard_tower.bsr": {
+"bytes": 188816,
+"glb": "artifact/guild/guard tower/guard_tower.glb",
+"height": 356.00758361816406,
+"meshes": 3
+},
+"artifact\\guild\\guard tower\\lightning_tower_02.bsr": {
+"bytes": 301808,
+"glb": "artifact/guild/guard tower/lightning_tower_02.glb",
+"height": 356.00758361816406,
+"meshes": 4
+},
+"artifact\\guild\\guard tower\\lightning_tower_03.bsr": {
+"bytes": 298544,
+"glb": "artifact/guild/guard tower/lightning_tower_03.glb",
+"height": 353.76324462890625,
+"meshes": 4
+},
+"artifact\\guild\\guard tower\\small_blaze_tower_02.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"artifact\\guild\\guard tower\\small_blaze_tower_03.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"artifact\\guild\\guard tower\\small_dark_tower_02.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"artifact\\guild\\guard tower\\small_dark_tower_03.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"artifact\\guild\\guard tower\\small_freezing_tower_02.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"artifact\\guild\\guard tower\\small_freezing_tower_03.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"artifact\\guild\\guard tower\\small_guard_tower.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"artifact\\guild\\guard tower\\small_lightning_tower_02.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"artifact\\guild\\guard tower\\small_lightning_tower_03.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"artifact\\guild\\headq\\headquarters_00.bsr": {
+"bytes": 119844,
+"glb": "artifact/guild/headq/headquarters_00.glb",
+"height": 20.761444091796875,
+"meshes": 2
+},
+"artifact\\guild\\headq\\headquarters_01.bsr": {
+"bytes": 672408,
+"glb": "artifact/guild/headq/headquarters_01.glb",
+"height": 120.78929615020752,
+"meshes": 8
+},
+"artifact\\guild\\pulley\\gate_pulley.bsr": {
+"bytes": 128676,
+"glb": "artifact/guild/pulley/gate_pulley.glb",
+"height": 38.522977113723755,
+"meshes": 4
+},
+"bldg\\arabia\\bagh_city\\bagh_city_rgate_door_event.bsr": {
+"bytes": 10340,
+"glb": "bldg/arabia/bagh_city/bagh_city_rgate_door_event.glb",
+"height": 159.69216918945312,
+"meshes": 1
+},
+"bldg\\arabia\\bagh_city\\event\\bagh_barricade01.bsr": {
+"bytes": 39056,
+"glb": "bldg/arabia/bagh_city/event/bagh_barricade01.glb",
+"height": 13.284160137176514,
+"meshes": 1
+},
+"bldg\\arabia\\bagh_city\\event\\bagh_barricade02.bsr": {
+"bytes": 98828,
+"glb": "bldg/arabia/bagh_city/event/bagh_barricade02.glb",
+"height": 13.284163475036621,
+"meshes": 1
+},
+"bldg\\arabia\\bagh_city\\event\\bagh_barricade03.bsr": {
+"bytes": 55384,
+"glb": "bldg/arabia/bagh_city/event/bagh_barricade03.glb",
+"height": 13.284163475036621,
+"meshes": 1
+},
+"bldg\\arabia\\bagh_city\\event\\bagh_barricade04.bsr": {
+"bytes": 45456,
+"glb": "bldg/arabia/bagh_city/event/bagh_barricade04.glb",
+"height": 13.284160614013672,
+"meshes": 1
+},
+"bldg\\arabia\\bagh_city\\event\\bagh_barricade05.bsr": {
+"bytes": 41208,
+"glb": "bldg/arabia/bagh_city/event/bagh_barricade05.glb",
+"height": 13.284160137176514,
+"meshes": 1
+},
+"bldg\\arabia\\bagh_city\\event\\bagh_barricade06.bsr": {
+"bytes": 28640,
+"glb": "bldg/arabia/bagh_city/event/bagh_barricade06.glb",
+"height": 13.284159183502197,
+"meshes": 1
+},
+"bldg\\arabia\\bagh_city\\event\\bagh_barricade07.bsr": {
+"bytes": 32600,
+"glb": "bldg/arabia/bagh_city/event/bagh_barricade07.glb",
+"height": 13.284160137176514,
+"meshes": 1
+},
+"bldg\\arabia\\bagh_city\\event\\bagh_barricade08.bsr": {
+"bytes": 69164,
+"glb": "bldg/arabia/bagh_city/event/bagh_barricade08.glb",
+"height": 13.284162998199463,
+"meshes": 1
+},
+"bldg\\arabia\\bagh_city\\event\\bagh_barricade09.bsr": {
+"bytes": 98828,
+"glb": "bldg/arabia/bagh_city/event/bagh_barricade09.glb",
+"height": 13.284163475036621,
+"meshes": 1
+},
+"bldg\\arabia\\bagh_masin\\bagh_masin_bridge01.bsr": {
+"bytes": 110812,
+"glb": "bldg/arabia/bagh_masin/bagh_masin_bridge01.glb",
+"height": 901.8472290039062,
+"meshes": 4
+},
+"bldg\\arabia\\bagh_masin\\bagh_masin_lightwall.bsr": {
+"bytes": 1424,
+"glb": "bldg/arabia/bagh_masin/bagh_masin_lightwall.glb",
+"height": 0.0001220703125,
+"meshes": 1
+},
+"bldg\\arabia\\bagh_petra\\bagh_petra_event_door.bsr": {
+"bytes": 12100,
+"glb": "bldg/arabia/bagh_petra/bagh_petra_event_door.glb",
+"height": 166.3095245361328,
+"meshes": 1
+},
+"bldg\\arabia\\bagh_petra\\bagh_petra_event_stone01.bsr": {
+"bytes": 19188,
+"glb": "bldg/arabia/bagh_petra/bagh_petra_event_stone01.glb",
+"height": 257.50535583496094,
+"meshes": 1
+},
+"bldg\\arabia\\bagh_petra\\bagh_petra_fire_down.bsr": {
+"bytes": 13464,
+"glb": "bldg/arabia/bagh_petra/bagh_petra_fire_down.glb",
+"height": 0.0,
+"meshes": 1
+},
+"bldg\\arabia\\bagh_petra\\bagh_petra_fire_mid.bsr": {
+"bytes": 13464,
+"glb": "bldg/arabia/bagh_petra/bagh_petra_fire_mid.glb",
+"height": 0.0,
+"meshes": 1
+},
+"bldg\\arabia\\bagh_petra\\bagh_petra_fire_up.bsr": {
+"bytes": 13464,
+"glb": "bldg/arabia/bagh_petra/bagh_petra_fire_up.glb",
+"height": 0.0,
+"meshes": 1
+},
+"bldg\\guild\\bj\\small_gate_bj.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"bldg\\guild\\ht\\big_gate_ht.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"bldg\\guild\\jangan\\big_gate_ja.bsr": {
+"bytes": 12628,
+"glb": "bldg/guild/jangan/big_gate_ja.glb",
+"height": 103.0085389316082,
+"meshes": 2
+},
+"char\\china\\chinaman_adventurer.bsr": {
+"bytes": 168836,
+"glb": "char/china/chinaman_adventurer.glb",
+"height": 18.123936396557838,
+"meshes": 9
+},
+"char\\china\\chinaman_bogy.bsr": {
+"bytes": 162536,
+"glb": "char/china/chinaman_bogy.glb",
+"height": 18.42452309699729,
+"meshes": 9
+},
+"char\\china\\chinaman_fighter.bsr": {
+"bytes": 165044,
+"glb": "char/china/chinaman_fighter.glb",
+"height": 19.237322550732642,
+"meshes": 9
+},
+"char\\china\\chinaman_merchant.bsr": {
+"bytes": 164168,
+"glb": "char/china/chinaman_merchant.glb",
+"height": 18.58020852180198,
+"meshes": 9
+},
+"char\\china\\chinaman_monk.bsr": {
+"bytes": 183720,
+"glb": "char/china/chinaman_monk.glb",
+"height": 18.427725535351783,
+"meshes": 9
+},
+"char\\china\\chinaman_monkey.bsr": {
+"bytes": 174440,
+"glb": "char/china/chinaman_monkey.glb",
+"height": 19.155062418896705,
+"meshes": 9
+},
+"char\\china\\chinaman_necromancer.bsr": {
+"bytes": 160488,
+"glb": "char/china/chinaman_necromancer.glb",
+"height": 18.04443619819358,
+"meshes": 9
+},
+"char\\china\\chinaman_nobleboy.bsr": {
+"bytes": 155808,
+"glb": "char/china/chinaman_nobleboy.glb",
+"height": 18.560280543286353,
+"meshes": 9
+},
+"char\\china\\chinaman_performer.bsr": {
+"bytes": 155564,
+"glb": "char/china/chinaman_performer.glb",
+"height": 17.993029337842017,
+"meshes": 9
+},
+"char\\china\\chinaman_priest.bsr": {
+"bytes": 150860,
+"glb": "char/china/chinaman_priest.glb",
+"height": 17.93691323371604,
+"meshes": 9
+},
+"char\\china\\chinaman_scholar.bsr": {
+"bytes": 169944,
+"glb": "char/china/chinaman_scholar.glb",
+"height": 18.78412697883323,
+"meshes": 9
+},
+"char\\china\\chinaman_spidey.bsr": {
+"bytes": 143380,
+"glb": "char/china/chinaman_spidey.glb",
+"height": 17.93691323371604,
+"meshes": 9
+},
+"char\\china\\chinaman_tattoo.bsr": {
+"bytes": 181828,
+"glb": "char/china/chinaman_tattoo.glb",
+"height": 18.64519951911643,
+"meshes": 9
+},
+"char\\china\\chinaman_warrior.bsr": {
+"bytes": 148972,
+"glb": "char/china/chinaman_warrior.glb",
+"height": 18.5001780805178,
+"meshes": 9
+},
+"char\\china\\chinawoman_adventurer.bsr": {
+"bytes": 167524,
+"glb": "char/china/chinawoman_adventurer.glb",
+"height": 17.203746998216957,
+"meshes": 9
+},
+"char\\china\\chinawoman_assassin.bsr": {
+"bytes": 159168,
+"glb": "char/china/chinawoman_assassin.glb",
+"height": 17.20416852226481,
+"meshes": 9
+},
+"char\\china\\chinawoman_bogy.bsr": {
+"bytes": 152712,
+"glb": "char/china/chinawoman_bogy.glb",
+"height": 17.20470448723063,
+"meshes": 9
+},
+"char\\china\\chinawoman_fighter.bsr": {
+"bytes": 157248,
+"glb": "char/china/chinawoman_fighter.glb",
+"height": 17.447038853075355,
+"meshes": 9
+},
+"char\\china\\chinawoman_fox.bsr": {
+"bytes": 121872,
+"glb": "char/china/chinawoman_fox.glb",
+"height": 17.815262043382972,
+"meshes": 9
+},
+"char\\china\\chinawoman_kangsi.bsr": {
+"bytes": 164852,
+"glb": "char/china/chinawoman_kangsi.glb",
+"height": 17.673938953783363,
+"meshes": 9
+},
+"char\\china\\chinawoman_kisaeng.bsr": {
+"bytes": 160972,
+"glb": "char/china/chinawoman_kisaeng.glb",
+"height": 17.754940235521644,
+"meshes": 9
+},
+"char\\china\\chinawoman_merchant.bsr": {
+"bytes": 166168,
+"glb": "char/china/chinawoman_merchant.glb",
+"height": 17.758522236254066,
+"meshes": 9
+},
+"char\\china\\chinawoman_necromencerb.bsr": {
+"bytes": 160660,
+"glb": "char/china/chinawoman_necromencerb.glb",
+"height": 18.088607990648597,
+"meshes": 9
+},
+"char\\china\\chinawoman_necromencerw.bsr": {
+"bytes": 160620,
+"glb": "char/china/chinawoman_necromencerw.glb",
+"height": 17.18579694023356,
+"meshes": 9
+},
+"char\\china\\chinawoman_noblegirl.bsr": {
+"bytes": 110064,
+"glb": "char/china/chinawoman_noblegirl.glb",
+"height": 18.279274189379066,
+"meshes": 9
+},
+"char\\china\\chinawoman_scholar.bsr": {
+"bytes": 159428,
+"glb": "char/china/chinawoman_scholar.glb",
+"height": 17.517379963304847,
+"meshes": 9
+},
+"char\\china\\chinawoman_warrior.bsr": {
+"bytes": 165240,
+"glb": "char/china/chinawoman_warrior.glb",
+"height": 17.206384861376137,
+"meshes": 9
+},
+"char\\europe\\europeman_adventurer.bsr": {
+"bytes": 218168,
+"glb": "char/europe/europeman_adventurer.glb",
+"height": 18.046709757763892,
+"meshes": 9
+},
+"char\\europe\\europeman_angel.bsr": {
+"bytes": 224980,
+"glb": "char/europe/europeman_angel.glb",
+"height": 18.215494852978736,
+"meshes": 9
+},
+"char\\europe\\europeman_barbarian.bsr": {
+"bytes": 205016,
+"glb": "char/europe/europeman_barbarian.glb",
+"height": 18.72578499885276,
+"meshes": 9
+},
+"char\\europe\\europeman_devil.bsr": {
+"bytes": 192980,
+"glb": "char/europe/europeman_devil.glb",
+"height": 18.14803956123069,
+"meshes": 9
+},
+"char\\europe\\europeman_exorcist.bsr": {
+"bytes": 199220,
+"glb": "char/europe/europeman_exorcist.glb",
+"height": 18.070313197094947,
+"meshes": 9
+},
+"char\\europe\\europeman_gladiator.bsr": {
+"bytes": 201200,
+"glb": "char/europe/europeman_gladiator.glb",
+"height": 18.022265177685767,
+"meshes": 9
+},
+"char\\europe\\europeman_knight.bsr": {
+"bytes": 247184,
+"glb": "char/europe/europeman_knight.glb",
+"height": 18.046709757763892,
+"meshes": 9
+},
+"char\\europe\\europeman_merchant.bsr": {
+"bytes": 165212,
+"glb": "char/europe/europeman_merchant.glb",
+"height": 18.450146418530494,
+"meshes": 9
+},
+"char\\europe\\europeman_necromencer.bsr": {
+"bytes": 242128,
+"glb": "char/europe/europeman_necromencer.glb",
+"height": 17.9961440381594,
+"meshes": 9
+},
+"char\\europe\\europeman_noble.bsr": {
+"bytes": 200116,
+"glb": "char/europe/europeman_noble.glb",
+"height": 18.041496973950416,
+"meshes": 9
+},
+"char\\europe\\europeman_priest.bsr": {
+"bytes": 211292,
+"glb": "char/europe/europeman_priest.glb",
+"height": 18.085562449414283,
+"meshes": 9
+},
+"char\\europe\\europeman_warrior.bsr": {
+"bytes": 236460,
+"glb": "char/europe/europeman_warrior.glb",
+"height": 18.06086800666526,
+"meshes": 9
+},
+"char\\europe\\europeman_werewolf.bsr": {
+"bytes": 216568,
+"glb": "char/europe/europeman_werewolf.glb",
+"height": 18.40972588630393,
+"meshes": 9
+},
+"char\\europe\\europewoman_adventurer.bsr": {
+"bytes": 218812,
+"glb": "char/europe/europewoman_adventurer.glb",
+"height": 17.342090809252113,
+"meshes": 9
+},
+"char\\europe\\europewoman_amazoness.bsr": {
+"bytes": 240404,
+"glb": "char/europe/europewoman_amazoness.glb",
+"height": 17.295135700609535,
+"meshes": 9
+},
+"char\\europe\\europewoman_angel.bsr": {
+"bytes": 203828,
+"glb": "char/europe/europewoman_angel.glb",
+"height": 17.351227009203285,
+"meshes": 9
+},
+"char\\europe\\europewoman_crusader.bsr": {
+"bytes": 231012,
+"glb": "char/europe/europewoman_crusader.glb",
+"height": 17.316896641161293,
+"meshes": 9
+},
+"char\\europe\\europewoman_devil.bsr": {
+"bytes": 231112,
+"glb": "char/europe/europewoman_devil.glb",
+"height": 17.792509281542152,
+"meshes": 9
+},
+"char\\europe\\europewoman_gladiator.bsr": {
+"bytes": 224456,
+"glb": "char/europe/europewoman_gladiator.glb",
+"height": 17.814539158251137,
+"meshes": 9
+},
+"char\\europe\\europewoman_knight.bsr": {
+"bytes": 221732,
+"glb": "char/europe/europewoman_knight.glb",
+"height": 17.30934735527262,
+"meshes": 9
+},
+"char\\europe\\europewoman_merchant.bsr": {
+"bytes": 219800,
+"glb": "char/europe/europewoman_merchant.glb",
+"height": 17.443754398729652,
+"meshes": 9
+},
+"char\\europe\\europewoman_noble.bsr": {
+"bytes": 236468,
+"glb": "char/europe/europewoman_noble.glb",
+"height": 17.88402005424723,
+"meshes": 9
+},
+"char\\europe\\europewoman_oracle.bsr": {
+"bytes": 236376,
+"glb": "char/europe/europewoman_oracle.glb",
+"height": 17.525917255785316,
+"meshes": 9
+},
+"char\\europe\\europewoman_succubus.bsr": {
+"bytes": 258604,
+"glb": "char/europe/europewoman_succubus.glb",
+"height": 17.320329868700355,
+"meshes": 9
+},
+"char\\europe\\europewoman_summoner.bsr": {
+"bytes": 244000,
+"glb": "char/europe/europewoman_summoner.glb",
+"height": 17.770132267381996,
+"meshes": 9
+},
+"char\\europe\\europewoman_witch.bsr": {
+"bytes": 228964,
+"glb": "char/europe/europewoman_witch.glb",
+"height": 17.344684803392738,
+"meshes": 9
+},
+"cos\\adr_scorpion_attack_pet.bsr": {
+"error": "no meshes"
+},
+"cos\\c_camel1.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"cos\\c_camel2.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"cos\\c_camel3.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"cos\\c_chorse1.bsr": {
+"error": "no meshes"
+},
+"cos\\c_dhorse1.bsr": {
+"bytes": 283196,
+"glb": "cos/c_dhorse1.glb",
+"height": 25.00137033534702,
+"meshes": 3
+},
+"cos\\c_dhorse2.bsr": {
+"bytes": 219852,
+"glb": "cos/c_dhorse2.glb",
+"height": 25.00137033534702,
+"meshes": 3
+},
+"cos\\c_dhorse3.bsr": {
+"bytes": 227700,
+"glb": "cos/c_dhorse3.glb",
+"height": 25.00137033534702,
+"meshes": 3
+},
+"cos\\c_donkey.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"cos\\c_draco.bsr": {
+"bytes": 122460,
+"glb": "cos/c_draco.glb",
+"height": 26.167741537094116,
+"meshes": 4
+},
+"cos\\c_horse1.bsr": {
+"bytes": 92084,
+"glb": "cos/c_horse1.glb",
+"height": 25.29167326586321,
+"meshes": 2
+},
+"cos\\c_horse2.bsr": {
+"bytes": 91552,
+"glb": "cos/c_horse2.glb",
+"height": 25.29167326586321,
+"meshes": 2
+},
+"cos\\c_horse3.bsr": {
+"bytes": 94824,
+"glb": "cos/c_horse3.glb",
+"height": 25.29167326586321,
+"meshes": 2
+},
+"cos\\c_ostrich.bsr": {
+"bytes": 336280,
+"glb": "cos/c_ostrich.glb",
+"height": 27.624218225479126,
+"meshes": 7
+},
+"cos\\c_pegasus.bsr": {
+"bytes": 206556,
+"glb": "cos/c_pegasus.glb",
+"height": 27.55694007873535,
+"meshes": 3
+},
+"cos\\c_rudolph.bsr": {
+"bytes": 94592,
+"glb": "cos/c_rudolph.glb",
+"height": 23.727495156228542,
+"meshes": 3
+},
+"cos\\c_scarabaeus.bsr": {
+"bytes": 122688,
+"glb": "cos/c_scarabaeus.glb",
+"height": 22.32014751434326,
+"meshes": 3
+},
+"cos\\c_thorse1.bsr": {
+"error": "no meshes"
+},
+"cos\\c_tiger.bsr": {
+"bytes": 147428,
+"glb": "cos/c_tiger.glb",
+"height": 18.03621768951416,
+"meshes": 2
+},
+"cos\\c_unicorn.bsr": {
+"bytes": 87208,
+"glb": "cos/c_unicorn.glb",
+"height": 24.970014177728444,
+"meshes": 2
+},
+"cos\\c_wildpig.bsr": {
+"bytes": 122196,
+"glb": "cos/c_wildpig.glb",
+"height": 21.615095615386963,
+"meshes": 2
+},
+"cos\\ch_guard_bow.bsr": {
+"bytes": 117240,
+"glb": "cos/ch_guard_bow.glb",
+"height": 18.423576835542917,
+"meshes": 4
+},
+"cos\\ch_guard_spear.bsr": {
+"bytes": 52436,
+"glb": "cos/ch_guard_spear.glb",
+"height": 18.423576835542917,
+"meshes": 4
+},
+"cos\\cos_p_mu_pikapika.bsr": {
+"error": "no meshes"
+},
+"cos\\dinotpet.bsr": {
+"bytes": 165164,
+"glb": "cos/dinotpet.glb",
+"height": 0.0,
+"meshes": 1
+},
+"cos\\electus_blastoysboi.bsr": {
+"error": "no meshes"
+},
+"cos\\electus_charizard.bsr": {
+"error": "no meshes"
+},
+"cos\\electus_cos_magicwolf.bsr": {
+"bytes": 100792,
+"glb": "cos/electus_cos_magicwolf.glb",
+"height": 10.259744644165039,
+"meshes": 1
+},
+"cos\\electus_cos_neonwolf.bsr": {
+"bytes": 254864,
+"glb": "cos/electus_cos_neonwolf.glb",
+"height": 27.110232889652252,
+"meshes": 4
+},
+"cos\\eu_guard_bow.bsr": {
+"bytes": 225440,
+"glb": "cos/eu_guard_bow.glb",
+"height": 20.443499874323606,
+"meshes": 5
+},
+"cos\\eu_guard_spear.bsr": {
+"bytes": 202260,
+"glb": "cos/eu_guard_spear.glb",
+"height": 20.443499874323606,
+"meshes": 5
+},
+"cos\\event_festival_circusbear.bsr": {
+"bytes": 172476,
+"glb": "cos/event_festival_circusbear.glb",
+"height": 1557.046968460083,
+"meshes": 4
+},
+"cos\\feather_knight_blossom_kami.bsr": {
+"bytes": 101864,
+"glb": "cos/feather_knight_blossom_kami.glb",
+"height": 8.05325773464574,
+"meshes": 1
+},
+"cos\\feather_knight_blossom_yokai.bsr": {
+"bytes": 99408,
+"glb": "cos/feather_knight_blossom_yokai.glb",
+"height": 8.05325773464574,
+"meshes": 1
+},
+"cos\\is_guard_blade.bsr": {
+"bytes": 79148,
+"glb": "cos/is_guard_blade.glb",
+"height": 18.572501063346863,
+"meshes": 6
+},
+"cos\\is_guard_bow.bsr": {
+"bytes": 78032,
+"glb": "cos/is_guard_bow.glb",
+"height": 18.572501063346863,
+"meshes": 5
+},
+"cos\\mole_miner_blue.bsr": {
+"bytes": 99180,
+"glb": "cos/mole_miner_blue.glb",
+"height": 6.80837501399219,
+"meshes": 1
+},
+"cos\\mole_miner_green.bsr": {
+"bytes": 101728,
+"glb": "cos/mole_miner_green.glb",
+"height": 6.80837501399219,
+"meshes": 1
+},
+"cos\\mole_miner_lightblue.bsr": {
+"bytes": 102324,
+"glb": "cos/mole_miner_lightblue.glb",
+"height": 6.80837501399219,
+"meshes": 1
+},
+"cos\\mole_miner_lightbrown.bsr": {
+"bytes": 102172,
+"glb": "cos/mole_miner_lightbrown.glb",
+"height": 6.80837501399219,
+"meshes": 1
+},
+"cos\\mole_miner_red.bsr": {
+"bytes": 101044,
+"glb": "cos/mole_miner_red.glb",
+"height": 6.80837501399219,
+"meshes": 1
+},
+"cos\\mole_miner_yellow.bsr": {
+"bytes": 101920,
+"glb": "cos/mole_miner_yellow.glb",
+"height": 6.80837501399219,
+"meshes": 1
+},
+"cos\\nimble_feet.bsr": {
+"bytes": 262252,
+"glb": "cos/nimble_feet.glb",
+"height": 6.962137663236632,
+"meshes": 6
+},
+"cos\\nimble_feet_black.bsr": {
+"bytes": 395140,
+"glb": "cos/nimble_feet_black.glb",
+"height": 6.962137663236632,
+"meshes": 6
+},
+"cos\\nimble_feet_black_new.bsr": {
+"bytes": 457244,
+"glb": "cos/nimble_feet_black_new.glb",
+"height": 7.6600929498672485,
+"meshes": 9
+},
+"cos\\nimble_feet_blue.bsr": {
+"bytes": 400624,
+"glb": "cos/nimble_feet_blue.glb",
+"height": 6.962137663236632,
+"meshes": 6
+},
+"cos\\nimble_feet_blue_new.bsr": {
+"bytes": 462728,
+"glb": "cos/nimble_feet_blue_new.glb",
+"height": 7.6600929498672485,
+"meshes": 9
+},
+"cos\\nimble_feet_green.bsr": {
+"bytes": 399204,
+"glb": "cos/nimble_feet_green.glb",
+"height": 6.962137663236632,
+"meshes": 6
+},
+"cos\\nimble_feet_green_new.bsr": {
+"bytes": 461308,
+"glb": "cos/nimble_feet_green_new.glb",
+"height": 7.6600929498672485,
+"meshes": 9
+},
+"cos\\nimble_feet_lightblue.bsr": {
+"bytes": 405984,
+"glb": "cos/nimble_feet_lightblue.glb",
+"height": 6.962137663236632,
+"meshes": 6
+},
+"cos\\nimble_feet_lightblue_new.bsr": {
+"bytes": 468088,
+"glb": "cos/nimble_feet_lightblue_new.glb",
+"height": 7.6600929498672485,
+"meshes": 9
+},
+"cos\\nimble_feet_new.bsr": {
+"bytes": 324356,
+"glb": "cos/nimble_feet_new.glb",
+"height": 7.6600929498672485,
+"meshes": 9
+},
+"cos\\nimble_feet_white.bsr": {
+"bytes": 406744,
+"glb": "cos/nimble_feet_white.glb",
+"height": 6.962137663236632,
+"meshes": 6
+},
+"cos\\nimble_feet_white_new.bsr": {
+"bytes": 468848,
+"glb": "cos/nimble_feet_white_new.glb",
+"height": 7.6600929498672485,
+"meshes": 9
+},
+"cos\\p_ao_black.bsr": {
+"bytes": 172944,
+"glb": "cos/p_ao_black.glb",
+"height": 6.4999842047691345,
+"meshes": 2
+},
+"cos\\p_ao_gold.bsr": {
+"bytes": 177008,
+"glb": "cos/p_ao_gold.glb",
+"height": 6.4999842047691345,
+"meshes": 2
+},
+"cos\\p_ao_orange.bsr": {
+"bytes": 178528,
+"glb": "cos/p_ao_orange.glb",
+"height": 6.4999842047691345,
+"meshes": 2
+},
+"cos\\p_ao_pink.bsr": {
+"bytes": 180136,
+"glb": "cos/p_ao_pink.glb",
+"height": 6.4999842047691345,
+"meshes": 2
+},
+"cos\\p_ao_purple.bsr": {
+"bytes": 174896,
+"glb": "cos/p_ao_purple.glb",
+"height": 6.4999842047691345,
+"meshes": 2
+},
+"cos\\p_ao_white.bsr": {
+"bytes": 173600,
+"glb": "cos/p_ao_white.glb",
+"height": 6.4999842047691345,
+"meshes": 2
+},
+"cos\\p_bat.bsr": {
+"error": "no meshes"
+},
+"cos\\p_bear01.bsr": {
+"bytes": 145100,
+"glb": "cos/p_bear01.glb",
+"height": 12.972083028405905,
+"meshes": 2
+},
+"cos\\p_bear02.bsr": {
+"bytes": 98820,
+"glb": "cos/p_bear02.glb",
+"height": 22.758173018693924,
+"meshes": 3
+},
+"cos\\p_bluemermaid.bsr": {
+"bytes": 35724,
+"glb": "cos/p_bluemermaid.glb",
+"height": 0.6206798553466797,
+"meshes": 1
+},
+"cos\\p_brownie.bsr": {
+"bytes": 112596,
+"glb": "cos/p_brownie.glb",
+"height": 9.444998979568481,
+"meshes": 3
+},
+"cos\\p_butterfly.bsr": {
+"error": "no meshes"
+},
+"cos\\p_carla.bsr": {
+"error": "no meshes"
+},
+"cos\\p_cat.bsr": {
+"bytes": 132448,
+"glb": "cos/p_cat.glb",
+"height": 7.026399450842291,
+"meshes": 3
+},
+"cos\\p_cock.bsr": {
+"bytes": 33860,
+"glb": "cos/p_cock.glb",
+"height": 4.934378222562373,
+"meshes": 1
+},
+"cos\\p_fox01.bsr": {
+"bytes": 123636,
+"glb": "cos/p_fox01.glb",
+"height": 6.990691184997559,
+"meshes": 4
+},
+"cos\\p_fox02.bsr": {
+"bytes": 121048,
+"glb": "cos/p_fox02.glb",
+"height": 7.837520599365234,
+"meshes": 5
+},
+"cos\\p_gemtiger_01.bsr": {
+"bytes": 234752,
+"glb": "cos/p_gemtiger_01.glb",
+"height": 13.529484272003174,
+"meshes": 2
+},
+"cos\\p_gglider.bsr": {
+"bytes": 104324,
+"glb": "cos/p_gglider.glb",
+"height": 25.218093037605286,
+"meshes": 3
+},
+"cos\\p_ghost.bsr": {
+"bytes": 22080,
+"glb": "cos/p_ghost.glb",
+"height": 7.297386646270752,
+"meshes": 2
+},
+"cos\\p_goblin.bsr": {
+"error": "no meshes"
+},
+"cos\\p_goldpig.bsr": {
+"bytes": 47304,
+"glb": "cos/p_goldpig.glb",
+"height": 12.607866602018476,
+"meshes": 3
+},
+"cos\\p_jinn.bsr": {
+"bytes": 137704,
+"glb": "cos/p_jinn.glb",
+"height": 29.907302379608154,
+"meshes": 3
+},
+"cos\\p_jinn_02.bsr": {
+"bytes": 137708,
+"glb": "cos/p_jinn_02.glb",
+"height": 29.907302379608154,
+"meshes": 3
+},
+"cos\\p_kangaroo01.bsr": {
+"bytes": 250968,
+"glb": "cos/p_kangaroo01.glb",
+"height": 13.973594188690186,
+"meshes": 4
+},
+"cos\\p_kangaroo02.bsr": {
+"bytes": 127752,
+"glb": "cos/p_kangaroo02.glb",
+"height": 21.095335006713867,
+"meshes": 3
+},
+"cos\\p_magicianboy.bsr": {
+"bytes": 100492,
+"glb": "cos/p_magicianboy.glb",
+"height": 0.35797739028930664,
+"meshes": 1
+},
+"cos\\p_mummy.bsr": {
+"error": "no meshes"
+},
+"cos\\p_myowon.bsr": {
+"bytes": 168268,
+"glb": "cos/p_myowon.glb",
+"height": 12.314289350062609,
+"meshes": 4
+},
+"cos\\p_ngmygroot.bsr": {
+"error": "no meshes"
+},
+"cos\\p_penguin01.bsr": {
+"bytes": 122128,
+"glb": "cos/p_penguin01.glb",
+"height": 8.957878530025482,
+"meshes": 3
+},
+"cos\\p_penguin02.bsr": {
+"bytes": 113924,
+"glb": "cos/p_penguin02.glb",
+"height": 12.456881999969482,
+"meshes": 3
+},
+"cos\\p_pharohdog.bsr": {
+"bytes": 35724,
+"glb": "cos/p_pharohdog.glb",
+"height": 0.6206798553466797,
+"meshes": 1
+},
+"cos\\p_pharohdogspot.bsr": {
+"bytes": 35728,
+"glb": "cos/p_pharohdogspot.glb",
+"height": 0.6206798553466797,
+"meshes": 1
+},
+"cos\\p_poke_blastoise.bsr": {
+"error": "no meshes"
+},
+"cos\\p_poke_charizard.bsr": {
+"error": "no meshes"
+},
+"cos\\p_poke_charmander.bsr": {
+"error": "no meshes"
+},
+"cos\\p_poke_squirtle.bsr": {
+"bytes": 87628,
+"glb": "cos/p_poke_squirtle.glb",
+"height": 6.6234331130981445,
+"meshes": 1
+},
+"cos\\p_poro.bsr": {
+"bytes": 74388,
+"glb": "cos/p_poro.glb",
+"height": 3.879103736951947,
+"meshes": 1
+},
+"cos\\p_rabbit.bsr": {
+"bytes": 54240,
+"glb": "cos/p_rabbit.glb",
+"height": 12.975286036729813,
+"meshes": 4
+},
+"cos\\p_raccoondog.bsr": {
+"bytes": 228424,
+"glb": "cos/p_raccoondog.glb",
+"height": 11.06291675567627,
+"meshes": 4
+},
+"cos\\p_raven01.bsr": {
+"bytes": 106944,
+"glb": "cos/p_raven01.glb",
+"height": 2.2531943023204803,
+"meshes": 3
+},
+"cos\\p_raven02.bsr": {
+"bytes": 103576,
+"glb": "cos/p_raven02.glb",
+"height": 3.0226776003837585,
+"meshes": 4
+},
+"cos\\p_rooster.bsr": {
+"bytes": 33864,
+"glb": "cos/p_rooster.glb",
+"height": 4.934378222562373,
+"meshes": 1
+},
+"cos\\p_seowon.bsr": {
+"bytes": 60536,
+"glb": "cos/p_seowon.glb",
+"height": 12.031193241477013,
+"meshes": 4
+},
+"cos\\p_wolf_01.bsr": {
+"bytes": 399360,
+"glb": "cos/p_wolf_01.glb",
+"height": 5.099099654704332,
+"meshes": 3
+},
+"cos\\p_wolf_02.bsr": {
+"bytes": 108292,
+"glb": "cos/p_wolf_02.glb",
+"height": 13.66036431118846,
+"meshes": 2
+},
+"cos\\p_wolf_white_01.bsr": {
+"bytes": 368360,
+"glb": "cos/p_wolf_white_01.glb",
+"height": 5.099099654704332,
+"meshes": 3
+},
+"cos\\p_wolf_white_02.bsr": {
+"bytes": 113948,
+"glb": "cos/p_wolf_white_02.glb",
+"height": 13.66036431118846,
+"meshes": 2
+},
+"cos\\panda.bsr": {
+"bytes": 185696,
+"glb": "cos/panda.glb",
+"height": 10.361498867860064,
+"meshes": 3
+},
+"cos\\panda_blue.bsr": {
+"error": "not a bsr"
+},
+"cos\\panda_brown.bsr": {
+"bytes": 184528,
+"glb": "cos/panda_brown.glb",
+"height": 10.361498867860064,
+"meshes": 3
+},
+"cos\\panda_pink.bsr": {
+"error": "not a bsr"
+},
+"cos\\panda_red.bsr": {
+"bytes": 186060,
+"glb": "cos/panda_red.glb",
+"height": 10.361498867860064,
+"meshes": 3
+},
+"cos\\panda_yellow.bsr": {
+"bytes": 188724,
+"glb": "cos/panda_yellow.glb",
+"height": 10.361498867860064,
+"meshes": 3
+},
+"cos\\pet_lion_a.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"cos\\pokemon_p_charbroiled.bsr": {
+"error": "no meshes"
+},
+"cos\\t_argos.bsr": {
+"bytes": 1493980,
+"glb": "cos/t_argos.glb",
+"height": 49.04925188422203,
+"meshes": 11
+},
+"cos\\t_behemoth.bsr": {
+"bytes": 430480,
+"glb": "cos/t_behemoth.glb",
+"height": 74.42048680782318,
+"meshes": 5
+},
+"cos\\t_buffalo.bsr": {
+"bytes": 224644,
+"glb": "cos/t_buffalo.glb",
+"height": 32.59792900085449,
+"meshes": 4
+},
+"cos\\t_camel1.bsr": {
+"bytes": 133868,
+"glb": "cos/t_camel1.glb",
+"height": 27.474654437974095,
+"meshes": 2
+},
+"cos\\t_camel2.bsr": {
+"bytes": 133784,
+"glb": "cos/t_camel2.glb",
+"height": 27.474654437974095,
+"meshes": 2
+},
+"cos\\t_camel3.bsr": {
+"bytes": 135516,
+"glb": "cos/t_camel3.glb",
+"height": 27.474654437974095,
+"meshes": 2
+},
+"cos\\t_cow1.bsr": {
+"bytes": 149252,
+"glb": "cos/t_cow1.glb",
+"height": 35.84879684448242,
+"meshes": 3
+},
+"cos\\t_cow2.bsr": {
+"bytes": 137932,
+"glb": "cos/t_cow2.glb",
+"height": 35.84879684448242,
+"meshes": 3
+},
+"cos\\t_cow3.bsr": {
+"bytes": 144604,
+"glb": "cos/t_cow3.glb",
+"height": 35.84879684448242,
+"meshes": 3
+},
+"cos\\t_dhorse1.bsr": {
+"bytes": 322200,
+"glb": "cos/t_dhorse1.glb",
+"height": 25.00137033534702,
+"meshes": 4
+},
+"cos\\t_dhorse2.bsr": {
+"bytes": 322200,
+"glb": "cos/t_dhorse2.glb",
+"height": 25.00137033534702,
+"meshes": 4
+},
+"cos\\t_dhorse3.bsr": {
+"bytes": 322200,
+"glb": "cos/t_dhorse3.glb",
+"height": 25.00137033534702,
+"meshes": 4
+},
+"cos\\t_donkey.bsr": {
+"bytes": 115168,
+"glb": "cos/t_donkey.glb",
+"height": 18.99074013158679,
+"meshes": 2
+},
+"cos\\t_horse1.bsr": {
+"bytes": 113132,
+"glb": "cos/t_horse1.glb",
+"height": 25.291600786615163,
+"meshes": 2
+},
+"cos\\t_horse2.bsr": {
+"bytes": 116364,
+"glb": "cos/t_horse2.glb",
+"height": 25.291600786615163,
+"meshes": 2
+},
+"cos\\t_horse3.bsr": {
+"bytes": 120300,
+"glb": "cos/t_horse3.glb",
+"height": 25.291600786615163,
+"meshes": 2
+},
+"cos\\t_lizard.bsr": {
+"bytes": 148560,
+"glb": "cos/t_lizard.glb",
+"height": 31.016940318048,
+"meshes": 5
+},
+"cos\\t_rhinoceros.bsr": {
+"bytes": 217920,
+"glb": "cos/t_rhinoceros.glb",
+"height": 38.72401475906372,
+"meshes": 4
+},
+"cos\\t_warelephant.bsr": {
+"error": "no meshes"
+},
+"cos\\t_whiteelephant.bsr": {
+"bytes": 241692,
+"glb": "cos/t_whiteelephant.glb",
+"height": 54.725791931152344,
+"meshes": 3
+},
+"dun\\arabia\\bagh_masin\\bagh_masin_bronze_door.bsr": {
+"bytes": 15320,
+"glb": "dun/arabia/bagh_masin/bagh_masin_bronze_door.glb",
+"height": 120.72323608398438,
+"meshes": 1
+},
+"dun\\arabia\\bagh_masin\\bagh_masin_gold_door.bsr": {
+"bytes": 15800,
+"glb": "dun/arabia/bagh_masin/bagh_masin_gold_door.glb",
+"height": 117.78530883789062,
+"meshes": 1
+},
+"dun\\arabia\\bagh_masin\\bagh_masin_silver_door.bsr": {
+"bytes": 17680,
+"glb": "dun/arabia/bagh_masin/bagh_masin_silver_door.glb",
+"height": 118.50654602050781,
+"meshes": 1
+},
+"dun\\jupiter\\hide\\hide01_boss_gate.bsr": {
+"bytes": 10356,
+"glb": "dun/jupiter/hide/hide01_boss_gate.glb",
+"height": 2.485809651237212e+35,
+"meshes": 1
+},
+"dun\\jupiter\\hide\\hide02_boss_gate.bsr": {
+"bytes": 10348,
+"glb": "dun/jupiter/hide/hide02_boss_gate.glb",
+"height": 2.485809651237212e+35,
+"meshes": 1
+},
+"dun\\jupiter\\hide\\hide02_door.bsr": {
+"bytes": 10200,
+"glb": "dun/jupiter/hide/hide02_door.glb",
+"height": 1.9639084022881038e+38,
+"meshes": 1
+},
+"dun\\jupiter\\hide\\hide03_boss_gate.bsr": {
+"bytes": 10364,
+"glb": "dun/jupiter/hide/hide03_boss_gate.glb",
+"height": 2.485809651237212e+35,
+"meshes": 1
+},
+"dun\\jupiter\\hide\\hide03_door.bsr": {
+"bytes": 10200,
+"glb": "dun/jupiter/hide/hide03_door.glb",
+"height": 1.9639084022881038e+38,
+"meshes": 1
+},
+"dun\\jupiter\\hide\\hide_door.bsr": {
+"bytes": 10200,
+"glb": "dun/jupiter/hide/hide_door.glb",
+"height": 1.9639084022881038e+38,
+"meshes": 1
+},
+"dun\\property\\com\\property_recall.bsr": {
+"bytes": 74248,
+"glb": "dun/property/com/property_recall.glb",
+"height": 149.07965564727783,
+"meshes": 3
+},
+"dun\\property\\flame\\com\\flame_lroom_door.bsr": {
+"bytes": 8512,
+"glb": "dun/property/flame/com/flame_lroom_door.glb",
+"height": 2.7376664373594633e+20,
+"meshes": 1
+},
+"dun\\property\\flame\\event\\flame_event_block.bsr": {
+"bytes": 188752,
+"glb": "dun/property/flame/event/flame_event_block.glb",
+"height": 111.16914749145508,
+"meshes": 4
+},
+"dun\\property\\flame\\event\\flame_event_break.bsr": {
+"bytes": 221180,
+"glb": "dun/property/flame/event/flame_event_break.glb",
+"height": 111.1692168712616,
+"meshes": 5
+},
+"dun\\property\\togui\\togui_door01.bsr": {
+"bytes": 93564,
+"glb": "dun/property/togui/togui_door01.glb",
+"height": 128.1154088973999,
+"meshes": 2
+},
+"dun\\property\\togui\\togui_door02.bsr": {
+"bytes": 89196,
+"glb": "dun/property/togui/togui_door02.glb",
+"height": 139.22058010101318,
+"meshes": 2
+},
+"dun\\property\\wreck\\event\\wreck_event_block.bsr": {
+"bytes": 149244,
+"glb": "dun/property/wreck/event/wreck_event_block.glb",
+"height": 190.17887115478516,
+"meshes": 4
+},
+"dun\\property\\wreck\\event\\wreck_event_break.bsr": {
+"bytes": 243976,
+"glb": "dun/property/wreck/event/wreck_event_break.glb",
+"height": 100.116424202919,
+"meshes": 4
+},
+"dun\\property\\wreck\\event\\wreck_event_door.bsr": {
+"bytes": 368116,
+"glb": "dun/property/wreck/event/wreck_event_door.glb",
+"height": 283.0511658191681,
+"meshes": 3
+},
+"dun\\tower\\defence\\heat_01.bsr": {
+"error": "no meshes"
+},
+"dun\\tower\\defence\\heat_02.bsr": {
+"error": "no meshes"
+},
+"dun\\tower\\defence\\inca01.bsr": {
+"bytes": 67752,
+"glb": "dun/tower/defence/inca01.glb",
+"height": 82.25265502929688,
+"meshes": 3
+},
+"dun\\tower\\defence\\inca02.bsr": {
+"bytes": 86556,
+"glb": "dun/tower/defence/inca02.glb",
+"height": 82.53693008422852,
+"meshes": 3
+},
+"dun\\tower\\defence\\inca03.bsr": {
+"bytes": 66416,
+"glb": "dun/tower/defence/inca03.glb",
+"height": 82.25265502929688,
+"meshes": 3
+},
+"dun\\wchina\\donhwang_cv_clone\\common\\event_door.bsr": {
+"bytes": 15056,
+"glb": "dun/wchina/donhwang_cv_clone/common/event_door.glb",
+"height": 81.77531048469245,
+"meshes": 1
+},
+"etc\\event_pandora.bsr": {
+"bytes": 34948,
+"glb": "etc/event_pandora.glb",
+"height": 22.669231414794922,
+"meshes": 1
+},
+"etc\\event_pandora2.bsr": {
+"bytes": 42460,
+"glb": "etc/event_pandora2.glb",
+"height": 22.669231414794922,
+"meshes": 1
+},
+"etc\\event_pandora3.bsr": {
+"bytes": 42448,
+"glb": "etc/event_pandora3.glb",
+"height": 22.669231414794922,
+"meshes": 1
+},
+"item\\etc\\event_unique_boss.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"mob\\arabia\\baruswolf_adonis1.bsr": {
+"bytes": 228044,
+"glb": "mob/arabia/baruswolf_adonis1.glb",
+"height": 19.716882186941803,
+"meshes": 3
+},
+"mob\\arabia\\baruswolf_adonis2.bsr": {
+"bytes": 231700,
+"glb": "mob/arabia/baruswolf_adonis2.glb",
+"height": 19.716882186941803,
+"meshes": 3
+},
+"mob\\arabia\\bast_2_armor.bsr": {
+"bytes": 199196,
+"glb": "mob/arabia/bast_2_armor.glb",
+"height": 20.328325748443604,
+"meshes": 4
+},
+"mob\\arabia\\bastet_mad.bsr": {
+"bytes": 154436,
+"glb": "mob/arabia/bastet_mad.glb",
+"height": 23.851962769869715,
+"meshes": 4
+},
+"mob\\arabia\\bastet_thief.bsr": {
+"bytes": 154436,
+"glb": "mob/arabia/bastet_thief.glb",
+"height": 23.851962769869715,
+"meshes": 4
+},
+"mob\\arabia\\blackrobber_armor.bsr": {
+"bytes": 139100,
+"glb": "mob/arabia/blackrobber_armor.glb",
+"height": 28.81319212168455,
+"meshes": 3
+},
+"mob\\arabia\\blackrobber_mad.bsr": {
+"bytes": 122188,
+"glb": "mob/arabia/blackrobber_mad.glb",
+"height": 24.617318481206894,
+"meshes": 3
+},
+"mob\\arabia\\blackrobber_thief.bsr": {
+"bytes": 116776,
+"glb": "mob/arabia/blackrobber_thief.glb",
+"height": 24.617318481206894,
+"meshes": 3
+},
+"mob\\arabia\\blackrobberarcher_armor.bsr": {
+"bytes": 138432,
+"glb": "mob/arabia/blackrobberarcher_armor.glb",
+"height": 25.927861396223307,
+"meshes": 3
+},
+"mob\\arabia\\blackrobberarcher_mad.bsr": {
+"bytes": 116056,
+"glb": "mob/arabia/blackrobberarcher_mad.glb",
+"height": 21.451542953960598,
+"meshes": 4
+},
+"mob\\arabia\\blackrobberarcher_thief.bsr": {
+"bytes": 118316,
+"glb": "mob/arabia/blackrobberarcher_thief.glb",
+"height": 21.451542953960598,
+"meshes": 4
+},
+"mob\\arabia\\blood_hyena_fastwolf.bsr": {
+"bytes": 145152,
+"glb": "mob/arabia/blood_hyena_fastwolf.glb",
+"height": 57.42868569493294,
+"meshes": 2
+},
+"mob\\arabia\\blood_hyena_wildwolf.bsr": {
+"bytes": 145152,
+"glb": "mob/arabia/blood_hyena_wildwolf.glb",
+"height": 57.42868569493294,
+"meshes": 2
+},
+"mob\\arabia\\crab.bsr": {
+"bytes": 55876,
+"glb": "mob/arabia/crab.glb",
+"height": 28.257709801197052,
+"meshes": 2
+},
+"mob\\arabia\\cursefire.bsr": {
+"bytes": 356692,
+"glb": "mob/arabia/cursefire.glb",
+"height": 21.506993770599365,
+"meshes": 19
+},
+"mob\\arabia\\cursefireblood.bsr": {
+"bytes": 401740,
+"glb": "mob/arabia/cursefireblood.glb",
+"height": 21.506993770599365,
+"meshes": 19
+},
+"mob\\arabia\\cursefireclod.bsr": {
+"bytes": 418688,
+"glb": "mob/arabia/cursefireclod.glb",
+"height": 21.506993770599365,
+"meshes": 19
+},
+"mob\\arabia\\darkkhepri_evil.bsr": {
+"bytes": 400592,
+"glb": "mob/arabia/darkkhepri_evil.glb",
+"height": 26.238256455399096,
+"meshes": 7
+},
+"mob\\arabia\\firespirit.bsr": {
+"bytes": 225064,
+"glb": "mob/arabia/firespirit.glb",
+"height": 14.462007522583008,
+"meshes": 15
+},
+"mob\\arabia\\firespirit_demon.bsr": {
+"bytes": 225072,
+"glb": "mob/arabia/firespirit_demon.glb",
+"height": 14.462007522583008,
+"meshes": 15
+},
+"mob\\arabia\\flame_witch.bsr": {
+"bytes": 221984,
+"glb": "mob/arabia/flame_witch.glb",
+"height": 28.910017013549805,
+"meshes": 6
+},
+"mob\\arabia\\flame_witch_summoner.bsr": {
+"bytes": 228368,
+"glb": "mob/arabia/flame_witch_summoner.glb",
+"height": 28.910017013549805,
+"meshes": 6
+},
+"mob\\arabia\\geenie.bsr": {
+"bytes": 445540,
+"glb": "mob/arabia/geenie.glb",
+"height": 79.75037097930908,
+"meshes": 10
+},
+"mob\\arabia\\giant_demon.bsr": {
+"bytes": 294780,
+"glb": "mob/arabia/giant_demon.glb",
+"height": 82.86631083488464,
+"meshes": 4
+},
+"mob\\arabia\\harrison.bsr": {
+"bytes": 320028,
+"glb": "mob/arabia/harrison.glb",
+"height": 77.6408462524414,
+"meshes": 10
+},
+"mob\\arabia\\karkadann.bsr": {
+"error": "unpack_from requires a buffer of at least 1058441171 bytes for unpacking 16 bytes at offset 1058441155 (actual buffer size is 240)"
+},
+"mob\\arabia\\karmus.bsr": {
+"bytes": 203776,
+"glb": "mob/arabia/karmus.glb",
+"height": 21.02381932735443,
+"meshes": 4
+},
+"mob\\arabia\\khulood.bsr": {
+"error": "unpack_from requires a buffer of at least 1058445113 bytes for unpacking 16 bytes at offset 1058445097 (actual buffer size is 232)"
+},
+"mob\\arabia\\kidemonas.bsr": {
+"bytes": 491500,
+"glb": "mob/arabia/kidemonas.glb",
+"height": 73.93672943115234,
+"meshes": 8
+},
+"mob\\arabia\\launatune.bsr": {
+"bytes": 528908,
+"glb": "mob/arabia/launatune.glb",
+"height": 63.36109161376953,
+"meshes": 13
+},
+"mob\\arabia\\mad_general_1.bsr": {
+"bytes": 339100,
+"glb": "mob/arabia/mad_general_1.glb",
+"height": 65.92084217071533,
+"meshes": 4
+},
+"mob\\arabia\\mad_general_1.bsr,mob\\arabia\\mad_general_2.bsr,mob\\arabia\\mad_general_3.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"mob\\arabia\\mangyang_plunder1.bsr": {
+"bytes": 31520,
+"glb": "mob/arabia/mangyang_plunder1.glb",
+"height": 15.22810758696869,
+"meshes": 2
+},
+"mob\\arabia\\mangyang_plunder2.bsr": {
+"bytes": 33956,
+"glb": "mob/arabia/mangyang_plunder2.glb",
+"height": 15.22810758696869,
+"meshes": 2
+},
+"mob\\arabia\\mujigi_koold.bsr": {
+"bytes": 47412,
+"glb": "mob/arabia/mujigi_koold.glb",
+"height": 49.30252738110721,
+"meshes": 3
+},
+"mob\\arabia\\mustafa.bsr": {
+"error": "unpack_from requires a buffer of at least 1058445110 bytes for unpacking 16 bytes at offset 1058445094 (actual buffer size is 232)"
+},
+"mob\\arabia\\sabra.bsr": {
+"bytes": 204540,
+"glb": "mob/arabia/sabra.glb",
+"height": 21.02381932735443,
+"meshes": 4
+},
+"mob\\arabia\\snake.bsr": {
+"bytes": 187476,
+"glb": "mob/arabia/snake.glb",
+"height": 5.909103870391846,
+"meshes": 2
+},
+"mob\\arabia\\snakedemon_waran.bsr": {
+"bytes": 136568,
+"glb": "mob/arabia/snakedemon_waran.glb",
+"height": 33.12903678417206,
+"meshes": 4
+},
+"mob\\arabia\\telbasta_2_armor.bsr": {
+"bytes": 245756,
+"glb": "mob/arabia/telbasta_2_armor.glb",
+"height": 29.2368124127388,
+"meshes": 6
+},
+"mob\\arabia\\thief_boss.bsr": {
+"bytes": 421584,
+"glb": "mob/arabia/thief_boss.glb",
+"height": 54.33530044555664,
+"meshes": 9
+},
+"mob\\arabia\\thief_boss_tooth.bsr": {
+"bytes": 141236,
+"glb": "mob/arabia/thief_boss_tooth.glb",
+"height": 57.473536014556885,
+"meshes": 2
+},
+"mob\\arabia\\togui_toguidoll_dark.bsr": {
+"bytes": 65040,
+"glb": "mob/arabia/togui_toguidoll_dark.glb",
+"height": 16.612979587051086,
+"meshes": 3
+},
+"mob\\arabia\\uneg.bsr": {
+"bytes": 119724,
+"glb": "mob/arabia/uneg.glb",
+"height": 18.02755817398429,
+"meshes": 3
+},
+"mob\\arabia\\venefica.bsr": {
+"bytes": 513800,
+"glb": "mob/arabia/venefica.glb",
+"height": 107.28698348999023,
+"meshes": 11
+},
+"mob\\arabia\\venefica_demon.bsr": {
+"bytes": 294336,
+"glb": "mob/arabia/venefica_demon.glb",
+"height": 71.52961730957031,
+"meshes": 6
+},
+"mob\\arabia\\whitespider_fallinblood.bsr": {
+"bytes": 47568,
+"glb": "mob/arabia/whitespider_fallinblood.glb",
+"height": 15.924388885498047,
+"meshes": 3
+},
+"mob\\arabia\\whitespider_madness.bsr": {
+"bytes": 47564,
+"glb": "mob/arabia/whitespider_madness.glb",
+"height": 15.924388885498047,
+"meshes": 3
+},
+"mob\\asiam\\archer.bsr": {
+"bytes": 134656,
+"glb": "mob/asiam/archer.glb",
+"height": 25.927861396223307,
+"meshes": 3
+},
+"mob\\asiam\\crab.bsr": {
+"bytes": 55872,
+"glb": "mob/asiam/crab.glb",
+"height": 28.257709801197052,
+"meshes": 2
+},
+"mob\\asiam\\ivy.bsr": {
+"bytes": 190904,
+"glb": "mob/asiam/ivy.glb",
+"height": 33.73652211949229,
+"meshes": 5
+},
+"mob\\asiam\\punisher.bsr": {
+"bytes": 241072,
+"glb": "mob/asiam/punisher.glb",
+"height": 43.45687484741211,
+"meshes": 5
+},
+"mob\\asiam\\rogue.bsr": {
+"bytes": 199188,
+"glb": "mob/asiam/rogue.glb",
+"height": 20.328325748443604,
+"meshes": 4
+},
+"mob\\asiam\\soldier.bsr": {
+"bytes": 134300,
+"glb": "mob/asiam/soldier.glb",
+"height": 28.81319212168455,
+"meshes": 3
+},
+"mob\\asiam\\wolf.bsr": {
+"bytes": 223032,
+"glb": "mob/asiam/wolf.glb",
+"height": 19.716882186941803,
+"meshes": 3
+},
+"mob\\bossdungeon\\blacksnake_boss_dungeon.bsr": {
+"bytes": 140044,
+"glb": "mob/bossdungeon/blacksnake_boss_dungeon.glb",
+"height": 22.366931170225143,
+"meshes": 3
+},
+"mob\\bossdungeon\\bluetiger_boss_dungeon.bsr": {
+"bytes": 210540,
+"glb": "mob/bossdungeon/bluetiger_boss_dungeon.glb",
+"height": 32.41283191740513,
+"meshes": 3
+},
+"mob\\bossdungeon\\bonelord_boss_dungeon.bsr": {
+"bytes": 183132,
+"glb": "mob/bossdungeon/bonelord_boss_dungeon.glb",
+"height": 85.8126449584961,
+"meshes": 5
+},
+"mob\\bossdungeon\\heavenly_gods_boss_dungeon.bsr": {
+"bytes": 132840,
+"glb": "mob/bossdungeon/heavenly_gods_boss_dungeon.glb",
+"height": 53.75798225402832,
+"meshes": 1
+},
+"mob\\bossdungeon\\isyutaru_boss_dungeon.bsr": {
+"bytes": 270888,
+"glb": "mob/bossdungeon/isyutaru_boss_dungeon.glb",
+"height": 48.59317111223936,
+"meshes": 6
+},
+"mob\\bossdungeon\\ivy_boss_dungeon.bsr": {
+"bytes": 190924,
+"glb": "mob/bossdungeon/ivy_boss_dungeon.glb",
+"height": 33.73652211949229,
+"meshes": 5
+},
+"mob\\bossdungeon\\kerberos_boss_dungeon.bsr": {
+"bytes": 447288,
+"glb": "mob/bossdungeon/kerberos_boss_dungeon.glb",
+"height": 66.65815748274326,
+"meshes": 8
+},
+"mob\\bossdungeon\\khulood_boss_dungeon.bsr": {
+"error": "unpack_from requires a buffer of at least 1058445113 bytes for unpacking 16 bytes at offset 1058445097 (actual buffer size is 232)"
+},
+"mob\\bossdungeon\\mustafa_boss_dungeon.bsr": {
+"error": "unpack_from requires a buffer of at least 1058445110 bytes for unpacking 16 bytes at offset 1058445094 (actual buffer size is 232)"
+},
+"mob\\bossdungeon\\tahomet_boss_dungeon.bsr": {
+"bytes": 220524,
+"glb": "mob/bossdungeon/tahomet_boss_dungeon.glb",
+"height": 39.35368460416794,
+"meshes": 6
+},
+"mob\\bossdungeon\\tigerwoman_boss_dungeon.bsr": {
+"bytes": 247136,
+"glb": "mob/bossdungeon/tigerwoman_boss_dungeon.glb",
+"height": 21.10056062750664,
+"meshes": 7
+},
+"mob\\bossdungeon\\uruchi_boss_dungeon.bsr": {
+"bytes": 199988,
+"glb": "mob/bossdungeon/uruchi_boss_dungeon.glb",
+"height": 43.223627837374806,
+"meshes": 5
+},
+"mob\\bossdungeon\\uruchidragon_boss_dungeon.bsr": {
+"bytes": 399512,
+"glb": "mob/bossdungeon/uruchidragon_boss_dungeon.glb",
+"height": 101.24745333194733,
+"meshes": 6
+},
+"mob\\casia\\ghostmonkey.bsr": {
+"bytes": 257720,
+"glb": "mob/casia/ghostmonkey.glb",
+"height": 19.401170276105404,
+"meshes": 4
+},
+"mob\\casia\\golem.bsr": {
+"bytes": 68300,
+"glb": "mob/casia/golem.glb",
+"height": 37.50027132034302,
+"meshes": 7
+},
+"mob\\casia\\hunarcher.bsr": {
+"bytes": 238580,
+"glb": "mob/casia/hunarcher.glb",
+"height": 29.2368124127388,
+"meshes": 6
+},
+"mob\\casia\\hunlancer.bsr": {
+"bytes": 245748,
+"glb": "mob/casia/hunlancer.glb",
+"height": 29.2368124127388,
+"meshes": 6
+},
+"mob\\casia\\monkey.bsr": {
+"bytes": 257712,
+"glb": "mob/casia/monkey.glb",
+"height": 19.401170276105404,
+"meshes": 4
+},
+"mob\\casia\\peryton.bsr": {
+"bytes": 133008,
+"glb": "mob/casia/peryton.glb",
+"height": 30.573221564292908,
+"meshes": 2
+},
+"mob\\celestius\\demonwarrior.bsr": {
+"bytes": 145516,
+"glb": "mob/celestius/demonwarrior.glb",
+"height": 0.0,
+"meshes": 2
+},
+"mob\\china\\bandit.bsr": {
+"bytes": 139912,
+"glb": "mob/china/bandit.glb",
+"height": 14.642569845542312,
+"meshes": 3
+},
+"mob\\china\\banditarcher.bsr": {
+"bytes": 134528,
+"glb": "mob/china/banditarcher.glb",
+"height": 14.902411764487624,
+"meshes": 3
+},
+"mob\\china\\bigeyeghost.bsr": {
+"bytes": 44152,
+"glb": "mob/china/bigeyeghost.glb",
+"height": 15.185409826692194,
+"meshes": 2
+},
+"mob\\china\\chakji.bsr": {
+"bytes": 120204,
+"glb": "mob/china/chakji.glb",
+"height": 23.190382812696043,
+"meshes": 4
+},
+"mob\\china\\gyo.bsr": {
+"bytes": 40352,
+"glb": "mob/china/gyo.glb",
+"height": 14.621927209198475,
+"meshes": 2
+},
+"mob\\china\\mangnyang.bsr": {
+"bytes": 34708,
+"glb": "mob/china/mangnyang.glb",
+"height": 15.22810758696869,
+"meshes": 2
+},
+"mob\\china\\stoneghost.bsr": {
+"bytes": 41724,
+"glb": "mob/china/stoneghost.glb",
+"height": 17.256977915763855,
+"meshes": 2
+},
+"mob\\china\\tiger.bsr": {
+"bytes": 198004,
+"glb": "mob/china/tiger.glb",
+"height": 19.658920070156455,
+"meshes": 3
+},
+"mob\\china\\tigerwoman.bsr": {
+"bytes": 247116,
+"glb": "mob/china/tigerwoman.glb",
+"height": 21.10056062750664,
+"meshes": 7
+},
+"mob\\china\\tombstone.bsr": {
+"bytes": 32204,
+"glb": "mob/china/tombstone.glb",
+"height": 26.31509494781494,
+"meshes": 2
+},
+"mob\\china\\waterghost.bsr": {
+"bytes": 52184,
+"glb": "mob/china/waterghost.glb",
+"height": 15.139352709054947,
+"meshes": 3
+},
+"mob\\china\\whitetiger.bsr": {
+"bytes": 208924,
+"glb": "mob/china/whitetiger.glb",
+"height": 19.658920070156455,
+"meshes": 3
+},
+"mob\\china\\yeoha.bsr": {
+"bytes": 111208,
+"glb": "mob/china/yeoha.glb",
+"height": 22.063236594200134,
+"meshes": 2
+},
+"mob\\common\\automob.bsr": {
+"bytes": 175396,
+"glb": "mob/common/automob.glb",
+"height": 14.499096751213074,
+"meshes": 1
+},
+"mob\\common\\mob_bot_summon.bsr": {
+"bytes": 37360,
+"glb": "mob/common/mob_bot_summon.glb",
+"height": 59.53218626976013,
+"meshes": 1
+},
+"mob\\common\\notify.bsr": {
+"bytes": 127844,
+"glb": "mob/common/notify.glb",
+"height": 12.247323989868164,
+"meshes": 2
+},
+"mob\\common\\pumpkin.bsr": {
+"bytes": 148460,
+"glb": "mob/common/pumpkin.glb",
+"height": 23.869807243347168,
+"meshes": 2
+},
+"mob\\common\\questghost_01.bsr": {
+"bytes": 155556,
+"glb": "mob/common/questghost_01.glb",
+"height": 17.993029337842017,
+"meshes": 9
+},
+"mob\\dm\\andras.bsr": {
+"bytes": 347708,
+"glb": "mob/dm/andras.glb",
+"height": 70.27431106567383,
+"meshes": 7
+},
+"mob\\dm\\berserk.bsr": {
+"bytes": 235692,
+"glb": "mob/dm/berserk.glb",
+"height": 43.45687484741211,
+"meshes": 5
+},
+"mob\\dm\\bird.bsr": {
+"bytes": 127780,
+"glb": "mob/dm/bird.glb",
+"height": 30.573221564292908,
+"meshes": 2
+},
+"mob\\dm\\darkguardian.bsr": {
+"bytes": 104720,
+"glb": "mob/dm/darkguardian.glb",
+"height": 54.79605786502361,
+"meshes": 6
+},
+"mob\\dm\\devilspore.bsr": {
+"bytes": 107288,
+"glb": "mob/dm/devilspore.glb",
+"height": 32.71738624572754,
+"meshes": 4
+},
+"mob\\dm\\dmsolide.bsr": {
+"bytes": 144500,
+"glb": "mob/dm/dmsolide.glb",
+"height": 47.574310664087534,
+"meshes": 4
+},
+"mob\\dm\\garm.bsr": {
+"bytes": 226736,
+"glb": "mob/dm/garm.glb",
+"height": 40.70331954956055,
+"meshes": 5
+},
+"mob\\dm\\goatdemon.bsr": {
+"bytes": 143424,
+"glb": "mob/dm/goatdemon.glb",
+"height": 47.574310664087534,
+"meshes": 4
+},
+"mob\\dm\\jalliaza.bsr": {
+"bytes": 450488,
+"glb": "mob/dm/jalliaza.glb",
+"height": 85.62365341186523,
+"meshes": 10
+},
+"mob\\dm\\knight.bsr": {
+"bytes": 357228,
+"glb": "mob/dm/knight.glb",
+"height": 37.24357958883047,
+"meshes": 6
+},
+"mob\\dm\\mage.bsr": {
+"bytes": 169916,
+"glb": "mob/dm/mage.glb",
+"height": 49.31815364956856,
+"meshes": 4
+},
+"mob\\dm\\ong.bsr": {
+"bytes": 170312,
+"glb": "mob/dm/ong.glb",
+"height": 19.331298828125,
+"meshes": 4
+},
+"mob\\dm\\planar.bsr": {
+"bytes": 42440,
+"glb": "mob/dm/planar.glb",
+"height": 20.39952016994357,
+"meshes": 3
+},
+"mob\\dm\\spirit.bsr": {
+"bytes": 198928,
+"glb": "mob/dm/spirit.glb",
+"height": 14.462007522583008,
+"meshes": 15
+},
+"mob\\dm\\toadstool.bsr": {
+"bytes": 210344,
+"glb": "mob/dm/toadstool.glb",
+"height": 20.599379539489746,
+"meshes": 4
+},
+"mob\\dm\\voiddevil.bsr": {
+"bytes": 253216,
+"glb": "mob/dm/voiddevil.glb",
+"height": 36.58492851257324,
+"meshes": 7
+},
+"mob\\dm\\wendigo.bsr": {
+"bytes": 210792,
+"glb": "mob/dm/wendigo.glb",
+"height": 43.77317810058594,
+"meshes": 4
+},
+"mob\\dungeon\\death\\achnish.bsr": {
+"bytes": 110108,
+"glb": "mob/dungeon/death/achnish.glb",
+"height": 11.79928120225668,
+"meshes": 5
+},
+"mob\\dungeon\\death\\blackrobber_armor.bsr": {
+"bytes": 124916,
+"glb": "mob/dungeon/death/blackrobber_armor.glb",
+"height": 28.81319212168455,
+"meshes": 2
+},
+"mob\\dungeon\\death\\coelacanth.bsr": {
+"bytes": 96700,
+"glb": "mob/dungeon/death/coelacanth.glb",
+"height": 25.653772354125977,
+"meshes": 2
+},
+"mob\\dungeon\\death\\cursefire.bsr": {
+"bytes": 367712,
+"glb": "mob/dungeon/death/cursefire.glb",
+"height": 21.506993770599365,
+"meshes": 19
+},
+"mob\\dungeon\\death\\fear_serpent.bsr": {
+"bytes": 257768,
+"glb": "mob/dungeon/death/fear_serpent.glb",
+"height": 51.22749328613281,
+"meshes": 3
+},
+"mob\\dungeon\\death\\firespirit.bsr": {
+"bytes": 219748,
+"glb": "mob/dungeon/death/firespirit.glb",
+"height": 14.462007522583008,
+"meshes": 15
+},
+"mob\\dungeon\\death\\flame_adjutant.bsr": {
+"bytes": 419644,
+"glb": "mob/dungeon/death/flame_adjutant.glb",
+"height": 44.26455581188202,
+"meshes": 6
+},
+"mob\\dungeon\\death\\ghost_beast.bsr": {
+"bytes": 277532,
+"glb": "mob/dungeon/death/ghost_beast.glb",
+"height": 44.553935289382935,
+"meshes": 4
+},
+"mob\\dungeon\\death\\ghost_gluttony.bsr": {
+"bytes": 286580,
+"glb": "mob/dungeon/death/ghost_gluttony.glb",
+"height": 38.478172928094864,
+"meshes": 7
+},
+"mob\\dungeon\\death\\griffin.bsr": {
+"bytes": 234316,
+"glb": "mob/dungeon/death/griffin.glb",
+"height": 46.48402786254883,
+"meshes": 5
+},
+"mob\\dungeon\\death\\redscorpion.bsr": {
+"bytes": 45568,
+"glb": "mob/dungeon/death/redscorpion.glb",
+"height": 23.25399413704872,
+"meshes": 3
+},
+"mob\\dungeon\\death\\sandworm.bsr": {
+"bytes": 108572,
+"glb": "mob/dungeon/death/sandworm.glb",
+"height": 40.0105562210083,
+"meshes": 3
+},
+"mob\\dungeon\\death\\yeowa.bsr": {
+"bytes": 151328,
+"glb": "mob/dungeon/death/yeowa.glb",
+"height": 22.366931170225143,
+"meshes": 3
+},
+"mob\\dungeon\\fire\\blackrobber_armor.bsr": {
+"bytes": 124096,
+"glb": "mob/dungeon/fire/blackrobber_armor.glb",
+"height": 28.81319212168455,
+"meshes": 2
+},
+"mob\\dungeon\\fire\\bunwang.bsr": {
+"bytes": 273520,
+"glb": "mob/dungeon/fire/bunwang.glb",
+"height": 19.401170276105404,
+"meshes": 4
+},
+"mob\\dungeon\\fire\\flame_adjutant.bsr": {
+"bytes": 408492,
+"glb": "mob/dungeon/fire/flame_adjutant.glb",
+"height": 44.26455581188202,
+"meshes": 6
+},
+"mob\\dungeon\\fire\\flame_crazy.bsr": {
+"bytes": 228260,
+"glb": "mob/dungeon/fire/flame_crazy.glb",
+"height": 49.15173396540433,
+"meshes": 6
+},
+"mob\\dungeon\\fire\\flame_evil.bsr": {
+"bytes": 107480,
+"glb": "mob/dungeon/fire/flame_evil.glb",
+"height": 15.147617481648922,
+"meshes": 5
+},
+"mob\\dungeon\\fire\\ghost_beast.bsr": {
+"bytes": 276576,
+"glb": "mob/dungeon/fire/ghost_beast.glb",
+"height": 44.553935289382935,
+"meshes": 4
+},
+"mob\\dungeon\\fire\\ghost_gluttony.bsr": {
+"bytes": 277816,
+"glb": "mob/dungeon/fire/ghost_gluttony.glb",
+"height": 38.478172928094864,
+"meshes": 7
+},
+"mob\\dungeon\\fire\\ghost_specter.bsr": {
+"bytes": 243460,
+"glb": "mob/dungeon/fire/ghost_specter.glb",
+"height": 31.66852709907107,
+"meshes": 11
+},
+"mob\\dungeon\\fire\\ghost_wreck.bsr": {
+"bytes": 242240,
+"glb": "mob/dungeon/fire/ghost_wreck.glb",
+"height": 39.61748909950256,
+"meshes": 3
+},
+"mob\\dungeon\\fire\\ishade.bsr": {
+"bytes": 220084,
+"glb": "mob/dungeon/fire/ishade.glb",
+"height": 31.193920612335205,
+"meshes": 5
+},
+"mob\\dungeon\\fire\\yeoha.bsr": {
+"bytes": 109720,
+"glb": "mob/dungeon/fire/yeoha.glb",
+"height": 22.063236594200134,
+"meshes": 2
+},
+"mob\\dungeon\\fire\\yeti.bsr": {
+"bytes": 48624,
+"glb": "mob/dungeon/fire/yeti.glb",
+"height": 48.080152094364166,
+"meshes": 3
+},
+"mob\\dungeon\\ice\\blackrobber_armor.bsr": {
+"bytes": 123300,
+"glb": "mob/dungeon/ice/blackrobber_armor.glb",
+"height": 28.81319212168455,
+"meshes": 2
+},
+"mob\\dungeon\\ice\\bunwang.bsr": {
+"bytes": 277744,
+"glb": "mob/dungeon/ice/bunwang.glb",
+"height": 19.401170276105404,
+"meshes": 4
+},
+"mob\\dungeon\\ice\\flame_adjutant.bsr": {
+"bytes": 416036,
+"glb": "mob/dungeon/ice/flame_adjutant.glb",
+"height": 44.26455581188202,
+"meshes": 6
+},
+"mob\\dungeon\\ice\\flame_cowking.bsr": {
+"bytes": 300136,
+"glb": "mob/dungeon/ice/flame_cowking.glb",
+"height": 54.536795649211854,
+"meshes": 5
+},
+"mob\\dungeon\\ice\\flame_crazy.bsr": {
+"bytes": 227368,
+"glb": "mob/dungeon/ice/flame_crazy.glb",
+"height": 49.15173396540433,
+"meshes": 6
+},
+"mob\\dungeon\\ice\\flame_evil.bsr": {
+"bytes": 107660,
+"glb": "mob/dungeon/ice/flame_evil.glb",
+"height": 15.147617481648922,
+"meshes": 5
+},
+"mob\\dungeon\\ice\\ghost_beast.bsr": {
+"bytes": 270564,
+"glb": "mob/dungeon/ice/ghost_beast.glb",
+"height": 44.553935289382935,
+"meshes": 4
+},
+"mob\\dungeon\\ice\\ghost_gluttony.bsr": {
+"bytes": 278616,
+"glb": "mob/dungeon/ice/ghost_gluttony.glb",
+"height": 38.478172928094864,
+"meshes": 7
+},
+"mob\\dungeon\\ice\\ghost_specter.bsr": {
+"bytes": 244144,
+"glb": "mob/dungeon/ice/ghost_specter.glb",
+"height": 31.66852709907107,
+"meshes": 11
+},
+"mob\\dungeon\\ice\\ghost_wreck.bsr": {
+"bytes": 240996,
+"glb": "mob/dungeon/ice/ghost_wreck.glb",
+"height": 39.61748909950256,
+"meshes": 3
+},
+"mob\\dungeon\\ice\\ishade.bsr": {
+"bytes": 223612,
+"glb": "mob/dungeon/ice/ishade.glb",
+"height": 31.193920612335205,
+"meshes": 5
+},
+"mob\\dungeon\\ice\\yeoha.bsr": {
+"bytes": 105728,
+"glb": "mob/dungeon/ice/yeoha.glb",
+"height": 22.063236594200134,
+"meshes": 2
+},
+"mob\\dungeon\\ice\\yeti.bsr": {
+"bytes": 45096,
+"glb": "mob/dungeon/ice/yeti.glb",
+"height": 48.080152094364166,
+"meshes": 3
+},
+"mob\\dungeon\\poison\\achnish.bsr": {
+"bytes": 104232,
+"glb": "mob/dungeon/poison/achnish.glb",
+"height": 11.79928120225668,
+"meshes": 5
+},
+"mob\\dungeon\\poison\\blackrobber_armor.bsr": {
+"bytes": 123020,
+"glb": "mob/dungeon/poison/blackrobber_armor.glb",
+"height": 28.81319212168455,
+"meshes": 2
+},
+"mob\\dungeon\\poison\\coelacanth.bsr": {
+"bytes": 96528,
+"glb": "mob/dungeon/poison/coelacanth.glb",
+"height": 25.653772354125977,
+"meshes": 2
+},
+"mob\\dungeon\\poison\\cursefire.bsr": {
+"bytes": 365500,
+"glb": "mob/dungeon/poison/cursefire.glb",
+"height": 21.506993770599365,
+"meshes": 19
+},
+"mob\\dungeon\\poison\\fear_serpent.bsr": {
+"bytes": 256348,
+"glb": "mob/dungeon/poison/fear_serpent.glb",
+"height": 51.22749328613281,
+"meshes": 3
+},
+"mob\\dungeon\\poison\\firespirit.bsr": {
+"bytes": 211896,
+"glb": "mob/dungeon/poison/firespirit.glb",
+"height": 14.462007522583008,
+"meshes": 15
+},
+"mob\\dungeon\\poison\\flame_adjutant.bsr": {
+"bytes": 409500,
+"glb": "mob/dungeon/poison/flame_adjutant.glb",
+"height": 44.26455581188202,
+"meshes": 6
+},
+"mob\\dungeon\\poison\\ghost_beast.bsr": {
+"bytes": 275204,
+"glb": "mob/dungeon/poison/ghost_beast.glb",
+"height": 44.553935289382935,
+"meshes": 4
+},
+"mob\\dungeon\\poison\\ghost_gluttony.bsr": {
+"bytes": 281908,
+"glb": "mob/dungeon/poison/ghost_gluttony.glb",
+"height": 38.478172928094864,
+"meshes": 7
+},
+"mob\\dungeon\\poison\\griffin.bsr": {
+"bytes": 230772,
+"glb": "mob/dungeon/poison/griffin.glb",
+"height": 46.48402786254883,
+"meshes": 5
+},
+"mob\\dungeon\\poison\\redscorpion.bsr": {
+"bytes": 45596,
+"glb": "mob/dungeon/poison/redscorpion.glb",
+"height": 23.25399413704872,
+"meshes": 3
+},
+"mob\\dungeon\\poison\\sandworm.bsr": {
+"bytes": 105228,
+"glb": "mob/dungeon/poison/sandworm.glb",
+"height": 40.0105562210083,
+"meshes": 3
+},
+"mob\\dungeon\\poison\\yeowa.bsr": {
+"bytes": 150128,
+"glb": "mob/dungeon/poison/yeowa.glb",
+"height": 22.366931170225143,
+"meshes": 3
+},
+"mob\\dunhuang\\blindmon.bsr": {
+"bytes": 120468,
+"glb": "mob/dunhuang/blindmon.glb",
+"height": 40.02585452795029,
+"meshes": 3
+},
+"mob\\dunhuang\\bugghost.bsr": {
+"bytes": 128820,
+"glb": "mob/dunhuang/bugghost.glb",
+"height": 12.769573658704758,
+"meshes": 2
+},
+"mob\\dunhuang\\nachal.bsr": {
+"bytes": 207640,
+"glb": "mob/dunhuang/nachal.glb",
+"height": 28.206493854522705,
+"meshes": 4
+},
+"mob\\dunhuang\\soldierearthghost.bsr": {
+"bytes": 129536,
+"glb": "mob/dunhuang/soldierearthghost.glb",
+"height": 32.40697383880615,
+"meshes": 4
+},
+"mob\\dunhuang\\workearthghost.bsr": {
+"bytes": 44996,
+"glb": "mob/dunhuang/workearthghost.glb",
+"height": 27.967647969722748,
+"meshes": 3
+},
+"mob\\dunhuang\\yacha.bsr": {
+"bytes": 218716,
+"glb": "mob/dunhuang/yacha.glb",
+"height": 40.95985886454582,
+"meshes": 5
+},
+"mob\\europe\\baroi.bsr": {
+"bytes": 138412,
+"glb": "mob/europe/baroi.glb",
+"height": 25.927861396223307,
+"meshes": 3
+},
+"mob\\europe\\bartis.bsr": {
+"bytes": 139088,
+"glb": "mob/europe/bartis.glb",
+"height": 28.81319212168455,
+"meshes": 3
+},
+"mob\\europe\\dowb.bsr": {
+"bytes": 202276,
+"glb": "mob/europe/dowb.glb",
+"height": 30.407282829284668,
+"meshes": 4
+},
+"mob\\europe\\edenp.bsr": {
+"bytes": 124204,
+"glb": "mob/europe/edenp.glb",
+"height": 15.147617481648922,
+"meshes": 5
+},
+"mob\\europe\\kerberos.bsr": {
+"bytes": 447272,
+"glb": "mob/europe/kerberos.glb",
+"height": 66.65815748274326,
+"meshes": 8
+},
+"mob\\europe\\kyklopess.bsr": {
+"bytes": 125032,
+"glb": "mob/europe/kyklopess.glb",
+"height": 42.282755479216576,
+"meshes": 4
+},
+"mob\\europe\\ladon.bsr": {
+"bytes": 118348,
+"glb": "mob/europe/ladon.glb",
+"height": 16.074440002441406,
+"meshes": 2
+},
+"mob\\europe\\lion.bsr": {
+"bytes": 54760,
+"glb": "mob/europe/lion.glb",
+"height": 20.3616306707263,
+"meshes": 2
+},
+"mob\\europe\\movoi.bsr": {
+"bytes": 126832,
+"glb": "mob/europe/movoi.glb",
+"height": 18.02755817398429,
+"meshes": 3
+},
+"mob\\europe\\siren.bsr": {
+"bytes": 230200,
+"glb": "mob/europe/siren.glb",
+"height": 32.510480396449566,
+"meshes": 4
+},
+"mob\\europe\\wolf.bsr": {
+"bytes": 231232,
+"glb": "mob/europe/wolf.glb",
+"height": 19.716882186941803,
+"meshes": 3
+},
+"mob\\event\\event_kinter_whiteknight.bsr": {
+"bytes": 451328,
+"glb": "mob/event/event_kinter_whiteknight.glb",
+"height": 65.57742599863559,
+"meshes": 8
+},
+"mob\\event\\event_summer_ghost_3.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"mob\\event\\event_summer_ghost_4.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"mob\\event\\event_winter_princess.bsr": {
+"bytes": 318024,
+"glb": "mob/event/event_winter_princess.glb",
+"height": 40.15131361037493,
+"meshes": 5
+},
+"mob\\event\\event_winter_snowman.bsr": {
+"bytes": 194496,
+"glb": "mob/event/event_winter_snowman.glb",
+"height": 18.056809425354004,
+"meshes": 3
+},
+"mob\\event\\event_winter_whiteknight.bsr": {
+"bytes": 468716,
+"glb": "mob/event/event_winter_whiteknight.glb",
+"height": 65.57742599863559,
+"meshes": 8
+},
+"mob\\fortress\\fw_battlegolem.bsr": {
+"bytes": 75268,
+"glb": "mob/fortress/fw_battlegolem.glb",
+"height": 38.437636613845825,
+"meshes": 7
+},
+"mob\\fortress\\fw_bigspider.bsr": {
+"bytes": 52920,
+"glb": "mob/fortress/fw_bigspider.glb",
+"height": 79.62192523479462,
+"meshes": 3
+},
+"mob\\fortress\\fw_darkeagle.bsr": {
+"bytes": 242844,
+"glb": "mob/fortress/fw_darkeagle.glb",
+"height": 51.97810262441635,
+"meshes": 7
+},
+"mob\\fortress\\fw_hagiazo.bsr": {
+"bytes": 416592,
+"glb": "mob/fortress/fw_hagiazo.glb",
+"height": 30.407280921936035,
+"meshes": 5
+},
+"mob\\fortress\\fw_hanga.bsr": {
+"bytes": 414804,
+"glb": "mob/fortress/fw_hanga.glb",
+"height": 70.85797119140625,
+"meshes": 5
+},
+"mob\\fortress\\fw_hyeongcheon.bsr": {
+"bytes": 120304,
+"glb": "mob/fortress/fw_hyeongcheon.glb",
+"height": 28.819149971590377,
+"meshes": 1
+},
+"mob\\fortress\\fw_kyklopes.bsr": {
+"bytes": 52640,
+"glb": "mob/fortress/fw_kyklopes.glb",
+"height": 42.28275890648365,
+"meshes": 4
+},
+"mob\\fortress\\fw_mujigi.bsr": {
+"bytes": 52592,
+"glb": "mob/fortress/fw_mujigi.glb",
+"height": 48.29551185015589,
+"meshes": 3
+},
+"mob\\fortress\\fw_taese.bsr": {
+"bytes": 139316,
+"glb": "mob/fortress/fw_taese.glb",
+"height": 98.7137463092804,
+"meshes": 6
+},
+"mob\\fortress\\fw_whitetiger.bsr": {
+"bytes": 188628,
+"glb": "mob/fortress/fw_whitetiger.glb",
+"height": 19.911134392023087,
+"meshes": 3
+},
+"mob\\fortress\\fw_whitetiger1.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"mob\\fortress\\fw_whitetiger2.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"mob\\god\\elemental.bsr": {
+"bytes": 262836,
+"glb": "mob/god/elemental.glb",
+"height": 25.517449147999287,
+"meshes": 8
+},
+"mob\\god\\flame_adjutant.bsr": {
+"bytes": 405472,
+"glb": "mob/god/flame_adjutant.glb",
+"height": 44.26455581188202,
+"meshes": 6
+},
+"mob\\god\\flame_archer.bsr": {
+"bytes": 143592,
+"glb": "mob/god/flame_archer.glb",
+"height": 81.09109115600586,
+"meshes": 6
+},
+"mob\\god\\flame_captain.bsr": {
+"bytes": 382284,
+"glb": "mob/god/flame_captain.glb",
+"height": 80.953049659729,
+"meshes": 7
+},
+"mob\\god\\flame_cowking.bsr": {
+"bytes": 297424,
+"glb": "mob/god/flame_cowking.glb",
+"height": 54.536795649211854,
+"meshes": 5
+},
+"mob\\god\\flame_crazy.bsr": {
+"bytes": 229016,
+"glb": "mob/god/flame_crazy.glb",
+"height": 49.15173396540433,
+"meshes": 6
+},
+"mob\\god\\flame_evil.bsr": {
+"bytes": 107028,
+"glb": "mob/god/flame_evil.glb",
+"height": 15.147617481648922,
+"meshes": 5
+},
+"mob\\god\\flame_ghost.bsr": {
+"bytes": 80668,
+"glb": "mob/god/flame_ghost.glb",
+"height": 49.78201866149902,
+"meshes": 5
+},
+"mob\\god\\flame_giant.bsr": {
+"bytes": 135944,
+"glb": "mob/god/flame_giant.glb",
+"height": 40.72761242464185,
+"meshes": 3
+},
+"mob\\god\\flame_gigantic.bsr": {
+"bytes": 74776,
+"glb": "mob/god/flame_gigantic.glb",
+"height": 38.437636613845825,
+"meshes": 7
+},
+"mob\\god\\flame_salamander.bsr": {
+"bytes": 129240,
+"glb": "mob/god/flame_salamander.glb",
+"height": 33.12903678417206,
+"meshes": 4
+},
+"mob\\god\\flame_witch.bsr": {
+"bytes": 244408,
+"glb": "mob/god/flame_witch.glb",
+"height": 28.910017013549805,
+"meshes": 6
+},
+"mob\\god\\ghost_beast.bsr": {
+"bytes": 270556,
+"glb": "mob/god/ghost_beast.glb",
+"height": 44.553935289382935,
+"meshes": 4
+},
+"mob\\god\\ghost_commander.bsr": {
+"bytes": 136104,
+"glb": "mob/god/ghost_commander.glb",
+"height": 25.927861396223307,
+"meshes": 3
+},
+"mob\\god\\ghost_curse.bsr": {
+"bytes": 201632,
+"glb": "mob/god/ghost_curse.glb",
+"height": 23.24509772658348,
+"meshes": 4
+},
+"mob\\god\\ghost_gluttony.bsr": {
+"bytes": 275820,
+"glb": "mob/god/ghost_gluttony.glb",
+"height": 38.478172928094864,
+"meshes": 7
+},
+"mob\\god\\ghost_kingnipper.bsr": {
+"bytes": 53528,
+"glb": "mob/god/ghost_kingnipper.glb",
+"height": 28.257709801197052,
+"meshes": 2
+},
+"mob\\god\\ghost_marauder.bsr": {
+"bytes": 119372,
+"glb": "mob/god/ghost_marauder.glb",
+"height": 15.147617481648922,
+"meshes": 5
+},
+"mob\\god\\ghost_pirate.bsr": {
+"bytes": 203772,
+"glb": "mob/god/ghost_pirate.glb",
+"height": 20.328325748443604,
+"meshes": 4
+},
+"mob\\god\\ghost_seiren.bsr": {
+"bytes": 241304,
+"glb": "mob/god/ghost_seiren.glb",
+"height": 32.510480396449566,
+"meshes": 4
+},
+"mob\\god\\ghost_specter.bsr": {
+"bytes": 246540,
+"glb": "mob/god/ghost_specter.glb",
+"height": 31.66852709907107,
+"meshes": 11
+},
+"mob\\god\\ghost_undine.bsr": {
+"bytes": 320196,
+"glb": "mob/god/ghost_undine.glb",
+"height": 39.61862087249756,
+"meshes": 9
+},
+"mob\\god\\ghost_wreck.bsr": {
+"bytes": 230644,
+"glb": "mob/god/ghost_wreck.glb",
+"height": 39.61748909950256,
+"meshes": 3
+},
+"mob\\god\\goost_beast.bsr": {
+"bytes": 278420,
+"glb": "mob/god/goost_beast.glb",
+"height": 44.553935289382935,
+"meshes": 4
+},
+"mob\\god\\mob_tops4a_2019_santa.bsr": {
+"bytes": 60248,
+"glb": "mob/god/mob_tops4a_2019_santa.glb",
+"height": 7.422369003295898,
+"meshes": 2
+},
+"mob\\god\\toggi_general.bsr": {
+"bytes": 315236,
+"glb": "mob/god/toggi_general.glb",
+"height": 31.73029136657715,
+"meshes": 11
+},
+"mob\\god\\togui_boom.bsr": {
+"bytes": 94160,
+"glb": "mob/god/togui_boom.glb",
+"height": 11.313920581247658,
+"meshes": 3
+},
+"mob\\god\\togui_doll.bsr": {
+"bytes": 64812,
+"glb": "mob/god/togui_doll.glb",
+"height": 16.612979587051086,
+"meshes": 3
+},
+"mob\\god\\togui_elder.bsr": {
+"bytes": 394388,
+"glb": "mob/god/togui_elder.glb",
+"height": 17.96496764291078,
+"meshes": 9
+},
+"mob\\god\\togui_general.bsr": {
+"bytes": 316528,
+"glb": "mob/god/togui_general.glb",
+"height": 31.73029136657715,
+"meshes": 11
+},
+"mob\\god\\togui_magic.bsr": {
+"bytes": 120436,
+"glb": "mob/god/togui_magic.glb",
+"height": 17.320234537124634,
+"meshes": 3
+},
+"mob\\god\\togui_soldier.bsr": {
+"bytes": 131240,
+"glb": "mob/god/togui_soldier.glb",
+"height": 32.40697383880615,
+"meshes": 4
+},
+"mob\\god\\togui_strong.bsr": {
+"bytes": 44828,
+"glb": "mob/god/togui_strong.glb",
+"height": 27.967647969722748,
+"meshes": 3
+},
+"mob\\god\\togui_togui.bsr": {
+"bytes": 99884,
+"glb": "mob/god/togui_togui.glb",
+"height": 11.313921249471605,
+"meshes": 3
+},
+"mob\\jupiter\\baal.bsr,mob\\jupiter\\baal_weapon.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"mob\\jupiter\\baal_weapon.bsr": {
+"bytes": 327592,
+"glb": "mob/jupiter/baal_weapon.glb",
+"height": 80.85904312133789,
+"meshes": 7
+},
+"mob\\jupiter\\babilion.bsr": {
+"bytes": 260404,
+"glb": "mob/jupiter/babilion.glb",
+"height": 49.936367988586426,
+"meshes": 9
+},
+"mob\\jupiter\\babilion_clon.bsr": {
+"bytes": 260408,
+"glb": "mob/jupiter/babilion_clon.glb",
+"height": 49.936367988586426,
+"meshes": 9
+},
+"mob\\jupiter\\charm_witch.bsr": {
+"bytes": 243040,
+"glb": "mob/jupiter/charm_witch.glb",
+"height": 28.910017013549805,
+"meshes": 6
+},
+"mob\\jupiter\\dark_dog.bsr": {
+"bytes": 396324,
+"glb": "mob/jupiter/dark_dog.glb",
+"height": 66.65815748274326,
+"meshes": 8
+},
+"mob\\jupiter\\desire_watch.bsr": {
+"bytes": 143032,
+"glb": "mob/jupiter/desire_watch.glb",
+"height": 57.42868569493294,
+"meshes": 2
+},
+"mob\\jupiter\\devil_dark.bsr": {
+"bytes": 498908,
+"glb": "mob/jupiter/devil_dark.glb",
+"height": 80.953049659729,
+"meshes": 7
+},
+"mob\\jupiter\\devildog.bsr": {
+"bytes": 185212,
+"glb": "mob/jupiter/devildog.glb",
+"height": 20.550618171691895,
+"meshes": 2
+},
+"mob\\jupiter\\fanaticism.bsr": {
+"bytes": 330140,
+"glb": "mob/jupiter/fanaticism.glb",
+"height": 59.632484436035156,
+"meshes": 4
+},
+"mob\\jupiter\\griffin.bsr": {
+"bytes": 229636,
+"glb": "mob/jupiter/griffin.glb",
+"height": 46.48402786254883,
+"meshes": 5
+},
+"mob\\jupiter\\heavenly_gods.bsr": {
+"bytes": 132824,
+"glb": "mob/jupiter/heavenly_gods.glb",
+"height": 53.75798225402832,
+"meshes": 1
+},
+"mob\\jupiter\\immotal.bsr": {
+"bytes": 161064,
+"glb": "mob/jupiter/immotal.glb",
+"height": 69.61897659301758,
+"meshes": 7
+},
+"mob\\jupiter\\immotal2.bsr": {
+"bytes": 143676,
+"glb": "mob/jupiter/immotal2.glb",
+"height": 29.877860069274902,
+"meshes": 5
+},
+"mob\\jupiter\\jupiter.bsr": {
+"bytes": 377696,
+"glb": "mob/jupiter/jupiter.glb",
+"height": 102.50988733768463,
+"meshes": 5
+},
+"mob\\jupiter\\mino.bsr": {
+"bytes": 339400,
+"glb": "mob/jupiter/mino.glb",
+"height": 54.536795649211854,
+"meshes": 5
+},
+"mob\\jupiter\\nike_lion.bsr": {
+"bytes": 55612,
+"glb": "mob/jupiter/nike_lion.glb",
+"height": 20.3616306707263,
+"meshes": 2
+},
+"mob\\jupiter\\prohibition.bsr": {
+"bytes": 42308,
+"glb": "mob/jupiter/prohibition.glb",
+"height": 28.576202392578125,
+"meshes": 1
+},
+"mob\\jupiter\\the_earth.bsr": {
+"bytes": 124780,
+"glb": "mob/jupiter/the_earth.glb",
+"height": 42.282755479216576,
+"meshes": 4
+},
+"mob\\jupiter\\transformation_fanaticism.bsr": {
+"bytes": 235580,
+"glb": "mob/jupiter/transformation_fanaticism.glb",
+"height": 54.183350563049316,
+"meshes": 4
+},
+"mob\\jupiter\\yuno.bsr": {
+"bytes": 432848,
+"glb": "mob/jupiter/yuno.glb",
+"height": 82.75436019897461,
+"meshes": 6
+},
+"mob\\karakoram\\gwhitespider.bsr": {
+"bytes": 36604,
+"glb": "mob/karakoram/gwhitespider.glb",
+"height": 23.886578671634197,
+"meshes": 3
+},
+"mob\\karakoram\\ishade.bsr": {
+"bytes": 225840,
+"glb": "mob/karakoram/ishade.glb",
+"height": 31.193920612335205,
+"meshes": 5
+},
+"mob\\karakoram\\isyutaru.bsr": {
+"bytes": 270872,
+"glb": "mob/karakoram/isyutaru.glb",
+"height": 48.59317111223936,
+"meshes": 6
+},
+"mob\\karakoram\\penon_f.bsr": {
+"bytes": 39588,
+"glb": "mob/karakoram/penon_f.glb",
+"height": 24.192612677812576,
+"meshes": 2
+},
+"mob\\karakoram\\penon_w.bsr": {
+"bytes": 37480,
+"glb": "mob/karakoram/penon_w.glb",
+"height": 24.192612677812576,
+"meshes": 2
+},
+"mob\\karakoram\\planar.bsr": {
+"bytes": 41680,
+"glb": "mob/karakoram/planar.glb",
+"height": 20.39952016994357,
+"meshes": 3
+},
+"mob\\karakoram\\spider.bsr": {
+"bytes": 37056,
+"glb": "mob/karakoram/spider.glb",
+"height": 15.924388885498047,
+"meshes": 3
+},
+"mob\\karakoram\\yeti.bsr": {
+"bytes": 47520,
+"glb": "mob/karakoram/yeti.glb",
+"height": 48.080152094364166,
+"meshes": 3
+},
+"mob\\khotan\\bunwang.bsr": {
+"bytes": 280220,
+"glb": "mob/khotan/bunwang.glb",
+"height": 19.401170276105404,
+"meshes": 4
+},
+"mob\\khotan\\mujigi.bsr": {
+"bytes": 48164,
+"glb": "mob/khotan/mujigi.glb",
+"height": 49.30252738110721,
+"meshes": 3
+},
+"mob\\khotan\\whitespider.bsr": {
+"bytes": 36168,
+"glb": "mob/khotan/whitespider.glb",
+"height": 15.924388885498047,
+"meshes": 3
+},
+"mob\\oasis\\blackrobber.bsr": {
+"bytes": 118172,
+"glb": "mob/oasis/blackrobber.glb",
+"height": 24.617318481206894,
+"meshes": 3
+},
+"mob\\oasis\\blackrobberarcher.bsr": {
+"bytes": 119404,
+"glb": "mob/oasis/blackrobberarcher.glb",
+"height": 21.451542953960598,
+"meshes": 4
+},
+"mob\\oasis\\deserttrunkz.bsr": {
+"bytes": 212832,
+"glb": "mob/oasis/deserttrunkz.glb",
+"height": 27.18131721019745,
+"meshes": 6
+},
+"mob\\oasis\\ong.bsr": {
+"bytes": 102116,
+"glb": "mob/oasis/ong.glb",
+"height": 19.331298828125,
+"meshes": 4
+},
+"mob\\oasis\\redeyeghost.bsr": {
+"bytes": 135712,
+"glb": "mob/oasis/redeyeghost.glb",
+"height": 11.79928120225668,
+"meshes": 5
+},
+"mob\\oasis\\redscorpion.bsr": {
+"bytes": 45576,
+"glb": "mob/oasis/redscorpion.glb",
+"height": 23.25399413704872,
+"meshes": 3
+},
+"mob\\oasis\\scorpion.bsr": {
+"bytes": 43056,
+"glb": "mob/oasis/scorpion.glb",
+"height": 16.609995812177658,
+"meshes": 3
+},
+"mob\\oasis\\uruchi.bsr": {
+"bytes": 199968,
+"glb": "mob/oasis/uruchi.glb",
+"height": 43.223627837374806,
+"meshes": 5
+},
+"mob\\oasis\\yeowa.bsr": {
+"bytes": 153800,
+"glb": "mob/oasis/yeowa.glb",
+"height": 22.366931170225143,
+"meshes": 3
+},
+"mob\\qinshi\\blacksnake.bsr": {
+"bytes": 140028,
+"glb": "mob/qinshi/blacksnake.glb",
+"height": 22.366931170225143,
+"meshes": 3
+},
+"mob\\qinshi\\bombstoneghost.bsr": {
+"bytes": 40996,
+"glb": "mob/qinshi/bombstoneghost.glb",
+"height": 24.945736207067966,
+"meshes": 2
+},
+"mob\\qinshi\\eastguardian.bsr": {
+"bytes": 193276,
+"glb": "mob/qinshi/eastguardian.glb",
+"height": 19.658920070156455,
+"meshes": 3
+},
+"mob\\qinshi\\northguardian.bsr": {
+"bytes": 140932,
+"glb": "mob/qinshi/northguardian.glb",
+"height": 98.7137463092804,
+"meshes": 6
+},
+"mob\\qinshi\\qinshitombstone.bsr": {
+"bytes": 94576,
+"glb": "mob/qinshi/qinshitombstone.glb",
+"height": 26.31509494781494,
+"meshes": 2
+},
+"mob\\qinshi\\qinshitrap.bsr": {
+"bytes": 36744,
+"glb": "mob/qinshi/qinshitrap.glb",
+"height": 62.00846457481384,
+"meshes": 1
+},
+"mob\\qinshi\\royalsoldier.bsr": {
+"bytes": 154928,
+"glb": "mob/qinshi/royalsoldier.glb",
+"height": 68.98498426564038,
+"meshes": 3
+},
+"mob\\qinshi\\snakedemon.bsr": {
+"bytes": 136564,
+"glb": "mob/qinshi/snakedemon.glb",
+"height": 33.12903678417206,
+"meshes": 4
+},
+"mob\\qinshi\\snakegeneral.bsr": {
+"bytes": 208684,
+"glb": "mob/qinshi/snakegeneral.glb",
+"height": 61.439788073301315,
+"meshes": 5
+},
+"mob\\qinshi\\snakeman.bsr": {
+"bytes": 165164,
+"glb": "mob/qinshi/snakeman.glb",
+"height": 49.78201866149902,
+"meshes": 5
+},
+"mob\\qinshi\\snakeslave.bsr": {
+"bytes": 153240,
+"glb": "mob/qinshi/snakeslave.glb",
+"height": 33.4794819355011,
+"meshes": 3
+},
+"mob\\qinshi\\snaketrap.bsr": {
+"bytes": 18488,
+"glb": "mob/qinshi/snaketrap.glb",
+"height": 103.54322052001953,
+"meshes": 4
+},
+"mob\\qinshi\\snakewoman.bsr": {
+"bytes": 268248,
+"glb": "mob/qinshi/snakewoman.glb",
+"height": 46.54071235656738,
+"meshes": 5
+},
+"mob\\qinshi\\southguardian.bsr": {
+"bytes": 390884,
+"glb": "mob/qinshi/southguardian.glb",
+"height": 33.281227111816406,
+"meshes": 4
+},
+"mob\\qinshi\\tombarcher.bsr": {
+"bytes": 151572,
+"glb": "mob/qinshi/tombarcher.glb",
+"height": 81.09109115600586,
+"meshes": 6
+},
+"mob\\qinshi\\tombbugghost.bsr": {
+"bytes": 223020,
+"glb": "mob/qinshi/tombbugghost.glb",
+"height": 19.134678840637207,
+"meshes": 2
+},
+"mob\\qinshi\\tombgeneral.bsr": {
+"bytes": 116652,
+"glb": "mob/qinshi/tombgeneral.glb",
+"height": 43.22872686479241,
+"meshes": 1
+},
+"mob\\qinshi\\tombsoldier.bsr": {
+"bytes": 150616,
+"glb": "mob/qinshi/tombsoldier.glb",
+"height": 40.72761242464185,
+"meshes": 3
+},
+"mob\\qinshi\\tombstoneghost.bsr": {
+"bytes": 43372,
+"glb": "mob/qinshi/tombstoneghost.glb",
+"height": 24.945736207067966,
+"meshes": 2
+},
+"mob\\qinshi\\westguardian.bsr": {
+"bytes": 112924,
+"glb": "mob/qinshi/westguardian.glb",
+"height": 16.074440002441406,
+"meshes": 2
+},
+"mob\\qinshi\\whitesnake.bsr": {
+"bytes": 386108,
+"glb": "mob/qinshi/whitesnake.glb",
+"height": 108.18766517937183,
+"meshes": 5
+},
+"mob\\qinshi\\whitesnake_beta.bsr": {
+"bytes": 386156,
+"glb": "mob/qinshi/whitesnake_beta.glb",
+"height": 108.18766517937183,
+"meshes": 5
+},
+"mob\\qinshi\\whitesnake_str.bsr": {
+"bytes": 386252,
+"glb": "mob/qinshi/whitesnake_str.glb",
+"height": 108.18766517937183,
+"meshes": 5
+},
+"mob\\roc\\antelope.bsr": {
+"bytes": 149600,
+"glb": "mob/roc/antelope.glb",
+"height": 47.574310664087534,
+"meshes": 4
+},
+"mob\\roc\\antelope_qt.bsr": {
+"bytes": 152560,
+"glb": "mob/roc/antelope_qt.glb",
+"height": 47.574310664087534,
+"meshes": 4
+},
+"mob\\roc\\boneroc.bsr": {
+"bytes": 480364,
+"glb": "mob/roc/boneroc.glb",
+"height": 250.23807525634766,
+"meshes": 6
+},
+"mob\\roc\\devilsaytan.bsr": {
+"bytes": 220504,
+"glb": "mob/roc/devilsaytan.glb",
+"height": 39.35368460416794,
+"meshes": 6
+},
+"mob\\roc\\feathermask.bsr": {
+"bytes": 142980,
+"glb": "mob/roc/feathermask.glb",
+"height": 21.870058715343475,
+"meshes": 4
+},
+"mob\\roc\\goat.bsr": {
+"bytes": 137908,
+"glb": "mob/roc/goat.glb",
+"height": 47.574310664087534,
+"meshes": 4
+},
+"mob\\roc\\roc.bsr": {
+"bytes": 470312,
+"glb": "mob/roc/roc.glb",
+"height": 309.4034309387207,
+"meshes": 7
+},
+"mob\\roc\\rocky.bsr": {
+"bytes": 232480,
+"glb": "mob/roc/rocky.glb",
+"height": 11.40346097946167,
+"meshes": 4
+},
+"mob\\roc\\sealrocky.bsr": {
+"bytes": 228612,
+"glb": "mob/roc/sealrocky.glb",
+"height": 34.210378646850586,
+"meshes": 4
+},
+"mob\\roc\\sealstone.bsr": {
+"bytes": 266184,
+"glb": "mob/roc/sealstone.glb",
+"height": 50.54109859466553,
+"meshes": 6
+},
+"mob\\roc\\spirits.bsr": {
+"bytes": 204740,
+"glb": "mob/roc/spirits.glb",
+"height": 28.13655948638916,
+"meshes": 3
+},
+"mob\\roc\\tahomet.bsr": {
+"bytes": 220500,
+"glb": "mob/roc/tahomet.glb",
+"height": 39.35368460416794,
+"meshes": 6
+},
+"mob\\roc\\wingtribe.bsr": {
+"bytes": 351420,
+"glb": "mob/roc/wingtribe.glb",
+"height": 75.19709241390228,
+"meshes": 8
+},
+"mob\\roc\\wingtribespear.bsr": {
+"bytes": 349436,
+"glb": "mob/roc/wingtribespear.glb",
+"height": 75.19709241390228,
+"meshes": 8
+},
+"mob\\sd\\achnish.bsr": {
+"bytes": 97648,
+"glb": "mob/sd/achnish.glb",
+"height": 11.79928120225668,
+"meshes": 5
+},
+"mob\\sd\\aker.bsr": {
+"bytes": 109508,
+"glb": "mob/sd/aker.glb",
+"height": 24.183888755738735,
+"meshes": 2
+},
+"mob\\sd\\anubis.bsr": {
+"bytes": 256688,
+"glb": "mob/sd/anubis.glb",
+"height": 84.37363974796608,
+"meshes": 6
+},
+"mob\\sd\\apis.bsr": {
+"bytes": 109596,
+"glb": "mob/sd/apis.glb",
+"height": 50.548801861703396,
+"meshes": 2
+},
+"mob\\sd\\apriest.bsr": {
+"bytes": 131760,
+"glb": "mob/sd/apriest.glb",
+"height": 39.8438715338707,
+"meshes": 3
+},
+"mob\\sd\\bastet.bsr": {
+"bytes": 154428,
+"glb": "mob/sd/bastet.glb",
+"height": 23.851962769869715,
+"meshes": 4
+},
+"mob\\sd\\beetle.bsr": {
+"bytes": 393232,
+"glb": "mob/sd/beetle.glb",
+"height": 26.238256455399096,
+"meshes": 7
+},
+"mob\\sd\\beetle_s.bsr": {
+"bytes": 60452,
+"glb": "mob/sd/beetle_s.glb",
+"height": 7.168751895427704,
+"meshes": 2
+},
+"mob\\sd\\coelacanth.bsr": {
+"bytes": 93464,
+"glb": "mob/sd/coelacanth.glb",
+"height": 25.653772354125977,
+"meshes": 2
+},
+"mob\\sd\\darkscout.bsr": {
+"bytes": 117352,
+"glb": "mob/sd/darkscout.glb",
+"height": 21.605218678712845,
+"meshes": 3
+},
+"mob\\sd\\demonbug.bsr": {
+"bytes": 173100,
+"glb": "mob/sd/demonbug.glb",
+"height": 13.79953670501709,
+"meshes": 2
+},
+"mob\\sd\\desertbug.bsr": {
+"bytes": 83984,
+"glb": "mob/sd/desertbug.glb",
+"height": 15.962475776672363,
+"meshes": 2
+},
+"mob\\sd\\haroeris.bsr,mob\\sd\\haroeris_t2.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"mob\\sd\\haroeris_head.bsr": {
+"bytes": 312976,
+"glb": "mob/sd/haroeris_head.glb",
+"height": 126.27756118774414,
+"meshes": 7
+},
+"mob\\sd\\harsapheth.bsr": {
+"bytes": 123048,
+"glb": "mob/sd/harsapheth.glb",
+"height": 49.31815364956856,
+"meshes": 3
+},
+"mob\\sd\\heron.bsr": {
+"bytes": 107200,
+"glb": "mob/sd/heron.glb",
+"height": 20.39952016994357,
+"meshes": 3
+},
+"mob\\sd\\hyena.bsr": {
+"bytes": 145136,
+"glb": "mob/sd/hyena.glb",
+"height": 57.42868569493294,
+"meshes": 2
+},
+"mob\\sd\\imouthes.bsr": {
+"bytes": 206152,
+"glb": "mob/sd/imouthes.glb",
+"height": 39.8438715338707,
+"meshes": 4
+},
+"mob\\sd\\isis.bsr": {
+"bytes": 439628,
+"glb": "mob/sd/isis.glb",
+"height": 103.37163543701172,
+"meshes": 6
+},
+"mob\\sd\\keisas.bsr": {
+"bytes": 87688,
+"glb": "mob/sd/keisas.glb",
+"height": 43.45687484741211,
+"meshes": 5
+},
+"mob\\sd\\mont.bsr": {
+"bytes": 151020,
+"glb": "mob/sd/mont.glb",
+"height": 37.2435986623168,
+"meshes": 6
+},
+"mob\\sd\\mummy.bsr": {
+"bytes": 138568,
+"glb": "mob/sd/mummy.glb",
+"height": 20.636367721366696,
+"meshes": 3
+},
+"mob\\sd\\neith.bsr": {
+"bytes": 127244,
+"glb": "mob/sd/neith.glb",
+"height": 60.867418598383665,
+"meshes": 4
+},
+"mob\\sd\\nephthys.bsr": {
+"bytes": 264288,
+"glb": "mob/sd/nephthys.glb",
+"height": 116.4770278930664,
+"meshes": 6
+},
+"mob\\sd\\ngmum.bsr": {
+"error": "no meshes"
+},
+"mob\\sd\\osiris.bsr": {
+"bytes": 324288,
+"glb": "mob/sd/osiris.glb",
+"height": 79.56112988106906,
+"meshes": 4
+},
+"mob\\sd\\osiris_guard_statue.bsr": {
+"bytes": 57960,
+"glb": "mob/sd/osiris_guard_statue.glb",
+"height": 51.4768545627594,
+"meshes": 3
+},
+"mob\\sd\\phhorus.bsr": {
+"bytes": 259484,
+"glb": "mob/sd/phhorus.glb",
+"height": 81.25211861729622,
+"meshes": 4
+},
+"mob\\sd\\raider.bsr": {
+"bytes": 149276,
+"glb": "mob/sd/raider.glb",
+"height": 20.61553794145584,
+"meshes": 6
+},
+"mob\\sd\\sandman.bsr": {
+"bytes": 258648,
+"glb": "mob/sd/sandman.glb",
+"height": 24.198411643505096,
+"meshes": 6
+},
+"mob\\sd\\sandworm.bsr": {
+"bytes": 105312,
+"glb": "mob/sd/sandworm.glb",
+"height": 40.0105562210083,
+"meshes": 3
+},
+"mob\\sd\\sekhmet.bsr": {
+"bytes": 256624,
+"glb": "mob/sd/sekhmet.glb",
+"height": 103.41934967041016,
+"meshes": 6
+},
+"mob\\sd\\selkion.bsr": {
+"bytes": 42788,
+"glb": "mob/sd/selkion.glb",
+"height": 23.25399413704872,
+"meshes": 3
+},
+"mob\\sd\\selkis.bsr": {
+"bytes": 190424,
+"glb": "mob/sd/selkis.glb",
+"height": 59.44645682256669,
+"meshes": 6
+},
+"mob\\sd\\septu.bsr": {
+"bytes": 225684,
+"glb": "mob/sd/septu.glb",
+"height": 34.8519040197134,
+"meshes": 3
+},
+"mob\\sd\\serpent.bsr": {
+"bytes": 85236,
+"glb": "mob/sd/serpent.glb",
+"height": 16.074440002441406,
+"meshes": 2
+},
+"mob\\sd\\seth.bsr,mob\\sd\\seth_t2.bsr,mob\\sd\\seth_t3.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"mob\\sd\\spector.bsr": {
+"bytes": 203932,
+"glb": "mob/sd/spector.glb",
+"height": 20.636367721366696,
+"meshes": 3
+},
+"mob\\sd\\sphinx.bsr": {
+"bytes": 228792,
+"glb": "mob/sd/sphinx.glb",
+"height": 60.83772999700159,
+"meshes": 5
+},
+"mob\\sd\\tathen.bsr": {
+"bytes": 109384,
+"glb": "mob/sd/tathen.glb",
+"height": 23.30047126818681,
+"meshes": 4
+},
+"mob\\sd\\uneg.bsr": {
+"bytes": 203244,
+"glb": "mob/sd/uneg.glb",
+"height": 25.752635188400745,
+"meshes": 3
+},
+"mob\\sd\\windpriest.bsr": {
+"bytes": 255704,
+"glb": "mob/sd/windpriest.glb",
+"height": 39.84386747237295,
+"meshes": 4
+},
+"mob\\sd\\windspider.bsr": {
+"bytes": 38624,
+"glb": "mob/sd/windspider.glb",
+"height": 15.924388885498047,
+"meshes": 3
+},
+"mob\\taklamakan\\bonegeneral.bsr": {
+"bytes": 374592,
+"glb": "mob/taklamakan/bonegeneral.glb",
+"height": 37.24357958883047,
+"meshes": 6
+},
+"mob\\taklamakan\\bonehunter.bsr": {
+"bytes": 146440,
+"glb": "mob/taklamakan/bonehunter.glb",
+"height": 24.493220686912537,
+"meshes": 3
+},
+"mob\\taklamakan\\bonelord.bsr": {
+"bytes": 183120,
+"glb": "mob/taklamakan/bonelord.glb",
+"height": 85.8126449584961,
+"meshes": 5
+},
+"mob\\taklamakan\\bonemage.bsr": {
+"bytes": 180552,
+"glb": "mob/taklamakan/bonemage.glb",
+"height": 49.31815364956856,
+"meshes": 4
+},
+"mob\\taklamakan\\bonesoldier.bsr": {
+"bytes": 139992,
+"glb": "mob/taklamakan/bonesoldier.glb",
+"height": 22.30754789710045,
+"meshes": 4
+},
+"mob\\taklamakan\\deathkara.bsr": {
+"bytes": 125836,
+"glb": "mob/taklamakan/deathkara.glb",
+"height": 25.653772354125977,
+"meshes": 2
+},
+"mob\\taklamakan\\devileke.bsr": {
+"bytes": 110036,
+"glb": "mob/taklamakan/devileke.glb",
+"height": 11.79928120225668,
+"meshes": 5
+},
+"mob\\taklamakan\\devileye.bsr": {
+"bytes": 113816,
+"glb": "mob/taklamakan/devileye.glb",
+"height": 11.79928120225668,
+"meshes": 5
+},
+"mob\\taklamakan\\edimmu.bsr": {
+"bytes": 117540,
+"glb": "mob/taklamakan/edimmu.glb",
+"height": 40.0105562210083,
+"meshes": 3
+},
+"mob\\wchina\\demonhorse.bsr": {
+"bytes": 103792,
+"glb": "mob/wchina/demonhorse.glb",
+"height": 22.262976839672774,
+"meshes": 2
+},
+"mob\\wchina\\devilbug.bsr": {
+"bytes": 182072,
+"glb": "mob/wchina/devilbug.glb",
+"height": 13.799534797668457,
+"meshes": 2
+},
+"mob\\wchina\\earthghost.bsr": {
+"bytes": 92780,
+"glb": "mob/wchina/earthghost.glb",
+"height": 11.313921249471605,
+"meshes": 3
+},
+"mob\\wchina\\earthking.bsr": {
+"bytes": 122744,
+"glb": "mob/wchina/earthking.glb",
+"height": 17.320234537124634,
+"meshes": 3
+},
+"mob\\wchina\\ghostbug.bsr": {
+"bytes": 88984,
+"glb": "mob/wchina/ghostbug.glb",
+"height": 15.962475776672363,
+"meshes": 2
+},
+"mob\\wchina\\gunpowderghost.bsr": {
+"bytes": 93260,
+"glb": "mob/wchina/gunpowderghost.glb",
+"height": 11.313920581247658,
+"meshes": 3
+},
+"mob\\wchina\\hyeongcheon.bsr": {
+"bytes": 40412,
+"glb": "mob/wchina/hyeongcheon.glb",
+"height": 28.744634196162224,
+"meshes": 2
+},
+"mob\\wchina\\hyungno.bsr": {
+"bytes": 141048,
+"glb": "mob/wchina/hyungno.glb",
+"height": 24.25851608067751,
+"meshes": 4
+},
+"npc\\bossdungeon\\isyutaru_boss_dungeon_stone.bsr": {
+"bytes": 272092,
+"glb": "npc/bossdungeon/isyutaru_boss_dungeon_stone.glb",
+"height": 48.59317111223936,
+"meshes": 6
+},
+"npc\\bossdungeon\\ivy_boss_dungeon_stone.bsr": {
+"bytes": 350364,
+"glb": "npc/bossdungeon/ivy_boss_dungeon_stone.glb",
+"height": 23.797566812485456,
+"meshes": 3
+},
+"npc\\bossdungeon\\kerberos_boss_dungeon_stone.bsr": {
+"bytes": 424544,
+"glb": "npc/bossdungeon/kerberos_boss_dungeon_stone.glb",
+"height": 66.65815748274326,
+"meshes": 8
+},
+"npc\\bossdungeon\\rocmountainquest_slave1_boss_dungeon.bsr": {
+"bytes": 37508,
+"glb": "npc/bossdungeon/rocmountainquest_slave1_boss_dungeon.glb",
+"height": 18.41747907921672,
+"meshes": 2
+},
+"npc\\bossdungeon\\tigerwoman_boss_dungeon_stone.bsr": {
+"bytes": 244396,
+"glb": "npc/bossdungeon/tigerwoman_boss_dungeon_stone.glb",
+"height": 21.10056062750664,
+"meshes": 7
+},
+"npc\\bossdungeon\\uruchi_boss_dungeon_stone.bsr": {
+"bytes": 118476,
+"glb": "npc/bossdungeon/uruchi_boss_dungeon_stone.glb",
+"height": 43.223627837374806,
+"meshes": 5
+},
+"npc\\npc\\asiaminor_ferry1.bsr": {
+"bytes": 181816,
+"glb": "npc/npc/asiaminor_ferry1.glb",
+"height": 20.328325986862183,
+"meshes": 4
+},
+"npc\\npc\\asiaminor_ferry2.bsr": {
+"bytes": 181976,
+"glb": "npc/npc/asiaminor_ferry2.glb",
+"height": 20.328325986862183,
+"meshes": 4
+},
+"npc\\npc\\asiaminor_flyship.bsr": {
+"bytes": 143940,
+"glb": "npc/npc/asiaminor_flyship.glb",
+"height": 16.785654086619616,
+"meshes": 4
+},
+"npc\\npc\\asiaminor_spacialmerchant.bsr": {
+"bytes": 179876,
+"glb": "npc/npc/asiaminor_spacialmerchant.glb",
+"height": 17.717385910451412,
+"meshes": 3
+},
+"npc\\npc\\centralasiaquest_soldier_ea1.bsr": {
+"bytes": 69588,
+"glb": "npc/npc/centralasiaquest_soldier_ea1.glb",
+"height": 18.56460426747799,
+"meshes": 4
+},
+"npc\\npc\\centralasiaquest_soldier_ea2.bsr": {
+"bytes": 69488,
+"glb": "npc/npc/centralasiaquest_soldier_ea2.glb",
+"height": 18.56460426747799,
+"meshes": 4
+},
+"npc\\npc\\centralasiaquest_soldier_so1.bsr": {
+"bytes": 69816,
+"glb": "npc/npc/centralasiaquest_soldier_so1.glb",
+"height": 18.564603753387928,
+"meshes": 4
+},
+"npc\\npc\\centralasiaquest_soldier_so2.bsr": {
+"bytes": 69760,
+"glb": "npc/npc/centralasiaquest_soldier_so2.glb",
+"height": 18.56460426747799,
+"meshes": 4
+},
+"npc\\npc\\centralasiaquest_soldier_we1.bsr": {
+"bytes": 69580,
+"glb": "npc/npc/centralasiaquest_soldier_we1.glb",
+"height": 18.564603753387928,
+"meshes": 4
+},
+"npc\\npc\\centralasiaquest_soldier_we2.bsr": {
+"bytes": 70076,
+"glb": "npc/npc/centralasiaquest_soldier_we2.glb",
+"height": 18.56460426747799,
+"meshes": 4
+},
+"npc\\npc\\centralasiashop_accessory.bsr": {
+"bytes": 58664,
+"glb": "npc/npc/centralasiashop_accessory.glb",
+"height": 20.05790051072836,
+"meshes": 3
+},
+"npc\\npc\\centralasiashop_armor.bsr": {
+"bytes": 103636,
+"glb": "npc/npc/centralasiashop_armor.glb",
+"height": 17.391730445437133,
+"meshes": 4
+},
+"npc\\npc\\centralasiashop_horse.bsr": {
+"bytes": 324432,
+"glb": "npc/npc/centralasiashop_horse.glb",
+"height": 21.042889944277704,
+"meshes": 9
+},
+"npc\\npc\\centralasiashop_hunter.bsr": {
+"bytes": 185464,
+"glb": "npc/npc/centralasiashop_hunter.glb",
+"height": 19.49613482877612,
+"meshes": 4
+},
+"npc\\npc\\centralasiashop_merchant.bsr": {
+"bytes": 264684,
+"glb": "npc/npc/centralasiashop_merchant.glb",
+"height": 20.435961553826928,
+"meshes": 4
+},
+"npc\\npc\\centralasiashop_potion.bsr": {
+"bytes": 187844,
+"glb": "npc/npc/centralasiashop_potion.glb",
+"height": 18.077536772936583,
+"meshes": 4
+},
+"npc\\npc\\centralasiashop_special.bsr": {
+"bytes": 86988,
+"glb": "npc/npc/centralasiashop_special.glb",
+"height": 16.490806568413973,
+"meshes": 5
+},
+"npc\\npc\\centralasiashop_warehouse.bsr": {
+"bytes": 311616,
+"glb": "npc/npc/centralasiashop_warehouse.glb",
+"height": 17.068002845393494,
+"meshes": 5
+},
+"npc\\npc\\centralasiashop_weapon.bsr": {
+"bytes": 260256,
+"glb": "npc/npc/centralasiashop_weapon.glb",
+"height": 17.280495643615723,
+"meshes": 4
+},
+"npc\\npc\\centralasiasystem_flyship.bsr": {
+"bytes": 150728,
+"glb": "npc/npc/centralasiasystem_flyship.glb",
+"height": 16.778281938284636,
+"meshes": 4
+},
+"npc\\npc\\centralasiasystem_tunnel_no.bsr": {
+"bytes": 70076,
+"glb": "npc/npc/centralasiasystem_tunnel_no.glb",
+"height": 18.56460426747799,
+"meshes": 4
+},
+"npc\\npc\\centralasiasystem_tunnel_so.bsr": {
+"bytes": 70260,
+"glb": "npc/npc/centralasiasystem_tunnel_so.glb",
+"height": 18.564603753387928,
+"meshes": 4
+},
+"npc\\npc\\chinaetc_europegirl.bsr": {
+"bytes": 113720,
+"glb": "npc/npc/chinaetc_europegirl.glb",
+"height": 17.233130156993866,
+"meshes": 5
+},
+"npc\\npc\\chinaetc_gamblingplaceman.bsr": {
+"bytes": 91364,
+"glb": "npc/npc/chinaetc_gamblingplaceman.glb",
+"height": 20.09647125005722,
+"meshes": 5
+},
+"npc\\npc\\chinaetc_horse1.bsr": {
+"bytes": 86804,
+"glb": "npc/npc/chinaetc_horse1.glb",
+"height": 19.751779241487384,
+"meshes": 4
+},
+"npc\\npc\\chinaetc_horse2.bsr": {
+"bytes": 84420,
+"glb": "npc/npc/chinaetc_horse2.glb",
+"height": 19.751779241487384,
+"meshes": 4
+},
+"npc\\npc\\chinaetc_horse3.bsr": {
+"bytes": 92628,
+"glb": "npc/npc/chinaetc_horse3.glb",
+"height": 19.751779241487384,
+"meshes": 4
+},
+"npc\\npc\\chinaetc_horse4.bsr": {
+"bytes": 87604,
+"glb": "npc/npc/chinaetc_horse4.glb",
+"height": 19.751779241487384,
+"meshes": 4
+},
+"npc\\npc\\chinaetc_indiapriest.bsr": {
+"bytes": 55440,
+"glb": "npc/npc/chinaetc_indiapriest.glb",
+"height": 23.445978020317852,
+"meshes": 3
+},
+"npc\\npc\\chinaetc_islamman.bsr": {
+"bytes": 190980,
+"glb": "npc/npc/chinaetc_islamman.glb",
+"height": 19.458969332277775,
+"meshes": 4
+},
+"npc\\npc\\chinaetc_kisaeng1.bsr": {
+"bytes": 89000,
+"glb": "npc/npc/chinaetc_kisaeng1.glb",
+"height": 16.91084596887231,
+"meshes": 5
+},
+"npc\\npc\\chinaetc_kisaeng2.bsr": {
+"bytes": 207260,
+"glb": "npc/npc/chinaetc_kisaeng2.glb",
+"height": 17.935374602675438,
+"meshes": 4
+},
+"npc\\npc\\chinaetc_kisaeng3.bsr": {
+"bytes": 88660,
+"glb": "npc/npc/chinaetc_kisaeng3.glb",
+"height": 17.548037014435977,
+"meshes": 5
+},
+"npc\\npc\\chinaetc_kisaeng4.bsr": {
+"bytes": 161328,
+"glb": "npc/npc/chinaetc_kisaeng4.glb",
+"height": 17.57951247692108,
+"meshes": 6
+},
+"npc\\npc\\chinaetc_kisaeng5.bsr": {
+"bytes": 61836,
+"glb": "npc/npc/chinaetc_kisaeng5.glb",
+"height": 16.90576934814453,
+"meshes": 4
+},
+"npc\\npc\\chinaetc_kisaeng6.bsr": {
+"bytes": 206044,
+"glb": "npc/npc/chinaetc_kisaeng6.glb",
+"height": 17.935374602675438,
+"meshes": 4
+},
+"npc\\npc\\chinaetc_qinshiquest.bsr": {
+"bytes": 104636,
+"glb": "npc/npc/chinaetc_qinshiquest.glb",
+"height": 16.659885600209236,
+"meshes": 3
+},
+"npc\\npc\\chinaetc_slumboy.bsr": {
+"bytes": 71728,
+"glb": "npc/npc/chinaetc_slumboy.glb",
+"height": 7.169751113280654,
+"meshes": 6
+},
+"npc\\npc\\chinaetc_soldiereast1.bsr": {
+"bytes": 73456,
+"glb": "npc/npc/chinaetc_soldiereast1.glb",
+"height": 24.92220927774906,
+"meshes": 4
+},
+"npc\\npc\\chinaetc_soldiereast2.bsr": {
+"bytes": 73616,
+"glb": "npc/npc/chinaetc_soldiereast2.glb",
+"height": 24.92220927774906,
+"meshes": 4
+},
+"npc\\npc\\chinaetc_soldierpalace1.bsr": {
+"bytes": 73336,
+"glb": "npc/npc/chinaetc_soldierpalace1.glb",
+"height": 24.92220927774906,
+"meshes": 4
+},
+"npc\\npc\\chinaetc_soldierpalace2.bsr": {
+"bytes": 73288,
+"glb": "npc/npc/chinaetc_soldierpalace2.glb",
+"height": 24.92220927774906,
+"meshes": 4
+},
+"npc\\npc\\chinaetc_soldiersouth1.bsr": {
+"bytes": 73476,
+"glb": "npc/npc/chinaetc_soldiersouth1.glb",
+"height": 24.92220927774906,
+"meshes": 4
+},
+"npc\\npc\\chinaetc_soldiersouth2.bsr": {
+"bytes": 73324,
+"glb": "npc/npc/chinaetc_soldiersouth2.glb",
+"height": 24.92220927774906,
+"meshes": 4
+},
+"npc\\npc\\chinaetc_soldierwest1.bsr": {
+"bytes": 73424,
+"glb": "npc/npc/chinaetc_soldierwest1.glb",
+"height": 24.92220927774906,
+"meshes": 4
+},
+"npc\\npc\\chinaetc_soldierwest2.bsr": {
+"bytes": 73384,
+"glb": "npc/npc/chinaetc_soldierwest2.glb",
+"height": 24.92220927774906,
+"meshes": 4
+},
+"npc\\npc\\chinaquest_doctor.bsr": {
+"bytes": 48560,
+"glb": "npc/npc/chinaquest_doctor.glb",
+"height": 16.71046534180641,
+"meshes": 4
+},
+"npc\\npc\\chinaquest_merchant.bsr": {
+"bytes": 105488,
+"glb": "npc/npc/chinaquest_merchant.glb",
+"height": 21.07358237542212,
+"meshes": 5
+},
+"npc\\npc\\chinaquest_merchant_bow.bsr": {
+"bytes": 95204,
+"glb": "npc/npc/chinaquest_merchant_bow.glb",
+"height": 19.48969615343958,
+"meshes": 4
+},
+"npc\\npc\\chinaquest_merchant_spear.bsr": {
+"bytes": 95664,
+"glb": "npc/npc/chinaquest_merchant_spear.glb",
+"height": 18.501635245978832,
+"meshes": 4
+},
+"npc\\npc\\chinaquest_merchant_sword.bsr": {
+"bytes": 92576,
+"glb": "npc/npc/chinaquest_merchant_sword.glb",
+"height": 19.668043233454227,
+"meshes": 4
+},
+"npc\\npc\\chinaquest_priest.bsr": {
+"bytes": 48236,
+"glb": "npc/npc/chinaquest_priest.glb",
+"height": 16.234983570873737,
+"meshes": 3
+},
+"npc\\npc\\chinaquest_qt_general_sp.bsr": {
+"bytes": 95508,
+"glb": "npc/npc/chinaquest_qt_general_sp.glb",
+"height": 18.46038120239973,
+"meshes": 4
+},
+"npc\\npc\\chinaquest_villageheadman.bsr": {
+"bytes": 235408,
+"glb": "npc/npc/chinaquest_villageheadman.glb",
+"height": 14.53410428762436,
+"meshes": 7
+},
+"npc\\npc\\chinashop_accessoryshopgirl.bsr": {
+"bytes": 65240,
+"glb": "npc/npc/chinashop_accessoryshopgirl.glb",
+"height": 16.977439492940903,
+"meshes": 4
+},
+"npc\\npc\\chinashop_dignifiedgirl.bsr": {
+"bytes": 52148,
+"glb": "npc/npc/chinashop_dignifiedgirl.glb",
+"height": 16.734971199184656,
+"meshes": 4
+},
+"npc\\npc\\chinashop_herbalistman.bsr": {
+"bytes": 46624,
+"glb": "npc/npc/chinashop_herbalistman.glb",
+"height": 16.71046534180641,
+"meshes": 4
+},
+"npc\\npc\\chinashop_smith.bsr": {
+"bytes": 64756,
+"glb": "npc/npc/chinashop_smith.glb",
+"height": 15.190692663192749,
+"meshes": 5
+},
+"npc\\npc\\chinashop_spacialmerchant.bsr": {
+"bytes": 51968,
+"glb": "npc/npc/chinashop_spacialmerchant.glb",
+"height": 14.168443963862956,
+"meshes": 5
+},
+"npc\\npc\\chinashop_stableman.bsr": {
+"bytes": 251008,
+"glb": "npc/npc/chinashop_stableman.glb",
+"height": 19.86492246389389,
+"meshes": 7
+},
+"npc\\npc\\chinasystem_boatman1.bsr": {
+"bytes": 68408,
+"glb": "npc/npc/chinasystem_boatman1.glb",
+"height": 16.529092380777,
+"meshes": 4
+},
+"npc\\npc\\chinasystem_boatman2.bsr": {
+"bytes": 181988,
+"glb": "npc/npc/chinasystem_boatman2.glb",
+"height": 194.8828125,
+"meshes": 9
+},
+"npc\\npc\\chinasystem_bookmakergirl.bsr": {
+"bytes": 63712,
+"glb": "npc/npc/chinasystem_bookmakergirl.glb",
+"height": 16.9057645983994,
+"meshes": 4
+},
+"npc\\npc\\chinasystem_bookmakerman.bsr": {
+"bytes": 72808,
+"glb": "npc/npc/chinasystem_bookmakerman.glb",
+"height": 15.931459974497557,
+"meshes": 4
+},
+"npc\\npc\\chinasystem_shaman.bsr": {
+"bytes": 219920,
+"glb": "npc/npc/chinasystem_shaman.glb",
+"height": 12.225132465362549,
+"meshes": 6
+},
+"npc\\npc\\chinasystem_warehousekeeper.bsr": {
+"bytes": 151788,
+"glb": "npc/npc/chinasystem_warehousekeeper.glb",
+"height": 20.23486077785492,
+"meshes": 6
+},
+"npc\\npc\\chinasystem_warehousekeeper_woman.bsr": {
+"bytes": 139788,
+"glb": "npc/npc/chinasystem_warehousekeeper_woman.glb",
+"height": 16.93535804748535,
+"meshes": 6
+},
+"npc\\npc\\chinawoman_noblegirl_event.bsr": {
+"bytes": 397212,
+"glb": "npc/npc/chinawoman_noblegirl_event.glb",
+"height": 20.09463280811906,
+"meshes": 6
+},
+"npc\\npc\\easteuropequest_adventure.bsr": {
+"bytes": 109028,
+"glb": "npc/npc/easteuropequest_adventure.glb",
+"height": 20.988254882395267,
+"meshes": 3
+},
+"npc\\npc\\easteuropequest_bar_aris.bsr": {
+"bytes": 180392,
+"glb": "npc/npc/easteuropequest_bar_aris.glb",
+"height": 19.411545887589455,
+"meshes": 3
+},
+"npc\\npc\\easteuropequest_chamberlain.bsr": {
+"bytes": 172672,
+"glb": "npc/npc/easteuropequest_chamberlain.glb",
+"height": 21.215431194752455,
+"meshes": 3
+},
+"npc\\npc\\easteuropequest_chinaslave.bsr": {
+"bytes": 90404,
+"glb": "npc/npc/easteuropequest_chinaslave.glb",
+"height": 12.986073106527328,
+"meshes": 2
+},
+"npc\\npc\\easteuropequest_commander_baltegru.bsr": {
+"bytes": 204336,
+"glb": "npc/npc/easteuropequest_commander_baltegru.glb",
+"height": 17.88906590640545,
+"meshes": 5
+},
+"npc\\npc\\easteuropequest_gravekeeper.bsr": {
+"bytes": 120420,
+"glb": "npc/npc/easteuropequest_gravekeeper.glb",
+"height": 20.10038768220693,
+"meshes": 4
+},
+"npc\\npc\\easteuropequest_lipria.bsr": {
+"bytes": 198680,
+"glb": "npc/npc/easteuropequest_lipria.glb",
+"height": 17.87694661319256,
+"meshes": 5
+},
+"npc\\npc\\easteuropequest_priest.bsr": {
+"bytes": 249284,
+"glb": "npc/npc/easteuropequest_priest.glb",
+"height": 21.432377368211746,
+"meshes": 4
+},
+"npc\\npc\\easteuropequest_soldier_alex.bsr": {
+"bytes": 279916,
+"glb": "npc/npc/easteuropequest_soldier_alex.glb",
+"height": 23.501902376301587,
+"meshes": 5
+},
+"npc\\npc\\easteuropequest_soldier_besaros.bsr": {
+"bytes": 267568,
+"glb": "npc/npc/easteuropequest_soldier_besaros.glb",
+"height": 23.501902376301587,
+"meshes": 5
+},
+"npc\\npc\\easteuropequest_soldier_justia.bsr": {
+"bytes": 280892,
+"glb": "npc/npc/easteuropequest_soldier_justia.glb",
+"height": 23.501902376301587,
+"meshes": 5
+},
+"npc\\npc\\easteuropequest_soldier_kartino.bsr": {
+"bytes": 279796,
+"glb": "npc/npc/easteuropequest_soldier_kartino.glb",
+"height": 23.501902376301587,
+"meshes": 5
+},
+"npc\\npc\\easteuropequest_soldier_kasius.bsr": {
+"bytes": 268052,
+"glb": "npc/npc/easteuropequest_soldier_kasius.glb",
+"height": 23.501902376301587,
+"meshes": 5
+},
+"npc\\npc\\easteuropequest_soldier_kotomo.bsr": {
+"bytes": 278644,
+"glb": "npc/npc/easteuropequest_soldier_kotomo.glb",
+"height": 23.501902376301587,
+"meshes": 5
+},
+"npc\\npc\\easteuropequest_soldier_masimus.bsr": {
+"bytes": 279952,
+"glb": "npc/npc/easteuropequest_soldier_masimus.glb",
+"height": 23.501902376301587,
+"meshes": 5
+},
+"npc\\npc\\easteuropequest_soldier_riedo.bsr": {
+"bytes": 279920,
+"glb": "npc/npc/easteuropequest_soldier_riedo.glb",
+"height": 23.501902376301587,
+"meshes": 5
+},
+"npc\\npc\\easteuropequest_soldier_takia.bsr": {
+"bytes": 279416,
+"glb": "npc/npc/easteuropequest_soldier_takia.glb",
+"height": 23.501902376301587,
+"meshes": 5
+},
+"npc\\npc\\easteuropequest_steward.bsr": {
+"bytes": 100912,
+"glb": "npc/npc/easteuropequest_steward.glb",
+"height": 20.19728145748377,
+"meshes": 2
+},
+"npc\\npc\\easteuropequest_unionleader_kafros.bsr": {
+"bytes": 95016,
+"glb": "npc/npc/easteuropequest_unionleader_kafros.glb",
+"height": 20.090046502649784,
+"meshes": 2
+},
+"npc\\npc\\easteuropequest_unionleader_ubetino.bsr": {
+"bytes": 183468,
+"glb": "npc/npc/easteuropequest_unionleader_ubetino.glb",
+"height": 19.55291673541069,
+"meshes": 3
+},
+"npc\\npc\\easteuropequest_witchofsunset.bsr": {
+"bytes": 94508,
+"glb": "npc/npc/easteuropequest_witchofsunset.glb",
+"height": 18.065698444843292,
+"meshes": 3
+},
+"npc\\npc\\easteuropeshop_accessory.bsr": {
+"bytes": 185172,
+"glb": "npc/npc/easteuropeshop_accessory.glb",
+"height": 19.411545887589455,
+"meshes": 3
+},
+"npc\\npc\\easteuropeshop_armor.bsr": {
+"bytes": 181016,
+"glb": "npc/npc/easteuropeshop_armor.glb",
+"height": 20.099504746496677,
+"meshes": 3
+},
+"npc\\npc\\easteuropeshop_potion.bsr": {
+"bytes": 186024,
+"glb": "npc/npc/easteuropeshop_potion.glb",
+"height": 18.077536772936583,
+"meshes": 5
+},
+"npc\\npc\\easteuropeshop_smith.bsr": {
+"bytes": 109728,
+"glb": "npc/npc/easteuropeshop_smith.glb",
+"height": 20.97722277790308,
+"meshes": 2
+},
+"npc\\npc\\easteuropeshop_specialproduct.bsr": {
+"bytes": 252604,
+"glb": "npc/npc/easteuropeshop_specialproduct.glb",
+"height": 18.71098018065095,
+"meshes": 4
+},
+"npc\\npc\\easteuropeshop_stable.bsr": {
+"bytes": 179644,
+"glb": "npc/npc/easteuropeshop_stable.glb",
+"height": 21.26086423918605,
+"meshes": 3
+},
+"npc\\npc\\easteuropesystem_guild.bsr": {
+"bytes": 111584,
+"glb": "npc/npc/easteuropesystem_guild.glb",
+"height": 20.97722277790308,
+"meshes": 2
+},
+"npc\\npc\\easteuropesystem_hunterunion.bsr": {
+"bytes": 203680,
+"glb": "npc/npc/easteuropesystem_hunterunion.glb",
+"height": 17.87694661319256,
+"meshes": 5
+},
+"npc\\npc\\easteuropesystem_merchantunion.bsr": {
+"bytes": 181240,
+"glb": "npc/npc/easteuropesystem_merchantunion.glb",
+"height": 18.71098018065095,
+"meshes": 3
+},
+"npc\\npc\\easteuropesystem_portmanager.bsr": {
+"bytes": 181664,
+"glb": "npc/npc/easteuropesystem_portmanager.glb",
+"height": 19.55291673541069,
+"meshes": 3
+},
+"npc\\npc\\easteuropesystem_portmanager2.bsr": {
+"bytes": 178608,
+"glb": "npc/npc/easteuropesystem_portmanager2.glb",
+"height": 19.55291673541069,
+"meshes": 3
+},
+"npc\\npc\\europewoman_witch_event.bsr": {
+"bytes": 550728,
+"glb": "npc/npc/europewoman_witch_event.glb",
+"height": 23.41450861375779,
+"meshes": 12
+},
+"npc\\npc\\event_festival_circusbear_npc.bsr": {
+"bytes": 172484,
+"glb": "npc/npc/event_festival_circusbear_npc.glb",
+"height": 1557.046968460083,
+"meshes": 4
+},
+"npc\\npc\\event_kisaeng1.bsr": {
+"bytes": 89000,
+"glb": "npc/npc/event_kisaeng1.glb",
+"height": 16.91084596887231,
+"meshes": 5
+},
+"npc\\npc\\event_newyear_child.bsr": {
+"bytes": 115036,
+"glb": "npc/npc/event_newyear_child.glb",
+"height": 12.31942892074585,
+"meshes": 4
+},
+"npc\\npc\\event_newyear_grandfather.bsr": {
+"bytes": 106840,
+"glb": "npc/npc/event_newyear_grandfather.glb",
+"height": 16.234690465033054,
+"meshes": 2
+},
+"npc\\npc\\event_newyear_grandmother.bsr": {
+"bytes": 104472,
+"glb": "npc/npc/event_newyear_grandmother.glb",
+"height": 16.411718279123306,
+"meshes": 3
+},
+"npc\\npc\\event_newyear_yutnori.bsr": {
+"bytes": 120640,
+"glb": "npc/npc/event_newyear_yutnori.glb",
+"height": 17.41897009324748,
+"meshes": 8
+},
+"npc\\npc\\event_santa_kisaeng1.bsr": {
+"bytes": 146704,
+"glb": "npc/npc/event_santa_kisaeng1.glb",
+"height": 18.62924998998642,
+"meshes": 6
+},
+"npc\\npc\\flag.bsr": {
+"bytes": 90392,
+"glb": "npc/npc/flag.glb",
+"height": 33.86458683013916,
+"meshes": 1
+},
+"npc\\npc\\flagpole_blue.bsr": {
+"bytes": 11304,
+"glb": "npc/npc/flagpole_blue.glb",
+"height": 7.9476799964904785,
+"meshes": 1
+},
+"npc\\npc\\flagpole_red.bsr": {
+"bytes": 11036,
+"glb": "npc/npc/flagpole_red.glb",
+"height": 7.9476799964904785,
+"meshes": 1
+},
+"npc\\npc\\flagpole_white.bsr": {
+"bytes": 10916,
+"glb": "npc/npc/flagpole_white.glb",
+"height": 7.9476799964904785,
+"meshes": 1
+},
+"npc\\npc\\flap_flagpole_blue.bsr": {
+"bytes": 101220,
+"glb": "npc/npc/flap_flagpole_blue.glb",
+"height": 36.37068939220626,
+"meshes": 2
+},
+"npc\\npc\\flap_flagpole_red.bsr": {
+"bytes": 100952,
+"glb": "npc/npc/flap_flagpole_red.glb",
+"height": 36.37068997556344,
+"meshes": 2
+},
+"npc\\npc\\flap_flagpole_white.bsr": {
+"bytes": 100784,
+"glb": "npc/npc/flap_flagpole_white.glb",
+"height": 36.370689392089844,
+"meshes": 2
+},
+"npc\\npc\\gacha_machine.bsr": {
+"bytes": 137576,
+"glb": "npc/npc/gacha_machine.glb",
+"height": 19.704723769566044,
+"meshes": 1
+},
+"npc\\npc\\khotanetc_soldiereast.bsr": {
+"bytes": 71212,
+"glb": "npc/npc/khotanetc_soldiereast.glb",
+"height": 18.572503991425037,
+"meshes": 4
+},
+"npc\\npc\\khotanetc_soldiereast2.bsr": {
+"bytes": 71664,
+"glb": "npc/npc/khotanetc_soldiereast2.glb",
+"height": 18.572502598166466,
+"meshes": 4
+},
+"npc\\npc\\khotanetc_soldierpalace.bsr": {
+"bytes": 71616,
+"glb": "npc/npc/khotanetc_soldierpalace.glb",
+"height": 18.572502598166466,
+"meshes": 4
+},
+"npc\\npc\\khotanetc_soldierpalace2.bsr": {
+"bytes": 71228,
+"glb": "npc/npc/khotanetc_soldierpalace2.glb",
+"height": 18.572502598166466,
+"meshes": 4
+},
+"npc\\npc\\khotanetc_soldiersouth.bsr": {
+"bytes": 71612,
+"glb": "npc/npc/khotanetc_soldiersouth.glb",
+"height": 18.572502598166466,
+"meshes": 4
+},
+"npc\\npc\\khotanetc_soldiersouth2.bsr": {
+"bytes": 71224,
+"glb": "npc/npc/khotanetc_soldiersouth2.glb",
+"height": 18.572502598166466,
+"meshes": 4
+},
+"npc\\npc\\khotanetc_soldierwest.bsr": {
+"bytes": 71376,
+"glb": "npc/npc/khotanetc_soldierwest.glb",
+"height": 18.572502598166466,
+"meshes": 4
+},
+"npc\\npc\\khotanetc_soldierwest2.bsr": {
+"bytes": 71296,
+"glb": "npc/npc/khotanetc_soldierwest2.glb",
+"height": 18.572502598166466,
+"meshes": 4
+},
+"npc\\npc\\khotanquest_minister.bsr": {
+"bytes": 89120,
+"glb": "npc/npc/khotanquest_minister.glb",
+"height": 19.687499720603228,
+"meshes": 4
+},
+"npc\\npc\\khotanquest_refiner.bsr": {
+"bytes": 56144,
+"glb": "npc/npc/khotanquest_refiner.glb",
+"height": 16.888330176472664,
+"meshes": 5
+},
+"npc\\npc\\khotanshop_armor.bsr": {
+"bytes": 103216,
+"glb": "npc/npc/khotanshop_armor.glb",
+"height": 17.52071553375572,
+"meshes": 4
+},
+"npc\\npc\\khotanshop_craftsman.bsr": {
+"bytes": 57144,
+"glb": "npc/npc/khotanshop_craftsman.glb",
+"height": 20.057900592684746,
+"meshes": 3
+},
+"npc\\npc\\khotanshop_designer.bsr": {
+"bytes": 150640,
+"glb": "npc/npc/khotanshop_designer.glb",
+"height": 16.785654086619616,
+"meshes": 4
+},
+"npc\\npc\\khotanshop_smith.bsr": {
+"bytes": 68184,
+"glb": "npc/npc/khotanshop_smith.glb",
+"height": 18.42109851166606,
+"meshes": 4
+},
+"npc\\npc\\khotanshop_spacialmerchant.bsr": {
+"bytes": 96552,
+"glb": "npc/npc/khotanshop_spacialmerchant.glb",
+"height": 16.49079842120409,
+"meshes": 4
+},
+"npc\\npc\\khotanshop_stableman.bsr": {
+"bytes": 72448,
+"glb": "npc/npc/khotanshop_stableman.glb",
+"height": 16.987089782895055,
+"meshes": 5
+},
+"npc\\npc\\khotanshop_veilgirl.bsr": {
+"bytes": 77668,
+"glb": "npc/npc/khotanshop_veilgirl.glb",
+"height": 16.720416381955147,
+"meshes": 5
+},
+"npc\\npc\\khotansystem_bikiniqueen.bsr": {
+"bytes": 57524,
+"glb": "npc/npc/khotansystem_bikiniqueen.glb",
+"height": 18.672921448247507,
+"meshes": 3
+},
+"npc\\npc\\khotansystem_bikiniqueen2.bsr": {
+"bytes": 147444,
+"glb": "npc/npc/khotansystem_bikiniqueen2.glb",
+"height": 18.25548072066158,
+"meshes": 4
+},
+"npc\\npc\\khotansystem_boatman.bsr": {
+"bytes": 37088,
+"glb": "npc/npc/khotansystem_boatman.glb",
+"height": 18.417505532503128,
+"meshes": 2
+},
+"npc\\npc\\khotansystem_turtleshipticketagent.bsr": {
+"bytes": 59484,
+"glb": "npc/npc/khotansystem_turtleshipticketagent.glb",
+"height": 11.944096777588129,
+"meshes": 4
+},
+"npc\\npc\\khotansystem_warehousekeeper.bsr": {
+"bytes": 198224,
+"glb": "npc/npc/khotansystem_warehousekeeper.glb",
+"height": 17.084829475032166,
+"meshes": 4
+},
+"npc\\npc\\masterkey.bsr": {
+"bytes": 14588,
+"glb": "npc/npc/masterkey.glb",
+"height": 9.228266477584839,
+"meshes": 1
+},
+"npc\\npc\\npc_ch_event_easteregg.bsr": {
+"bytes": 7368,
+"glb": "npc/npc/npc_ch_event_easteregg.glb",
+"height": 11.611237049102783,
+"meshes": 1
+},
+"npc\\npc\\object_festival_summer.bsr": {
+"bytes": 497948,
+"glb": "npc/npc/object_festival_summer.glb",
+"height": 66.87562310695648,
+"meshes": 15
+},
+"npc\\npc\\open_market_juel.bsr": {
+"bytes": 242764,
+"glb": "npc/npc/open_market_juel.glb",
+"height": 26.785158537328243,
+"meshes": 7
+},
+"npc\\npc\\rocmountainquest_oldwoman.bsr": {
+"bytes": 45256,
+"glb": "npc/npc/rocmountainquest_oldwoman.glb",
+"height": 16.720421075820923,
+"meshes": 3
+},
+"npc\\npc\\rocmountainquest_slave1.bsr": {
+"bytes": 37556,
+"glb": "npc/npc/rocmountainquest_slave1.glb",
+"height": 18.41747907921672,
+"meshes": 2
+},
+"npc\\npc\\rocmountainquest_slave2.bsr": {
+"bytes": 61232,
+"glb": "npc/npc/rocmountainquest_slave2.glb",
+"height": 11.944096770137548,
+"meshes": 4
+},
+"npc\\npc\\rocmountainquest_slave3.bsr": {
+"bytes": 69000,
+"glb": "npc/npc/rocmountainquest_slave3.glb",
+"height": 18.42109851166606,
+"meshes": 4
+},
+"npc\\npc\\rocmountainquest_youngwoman1.bsr": {
+"bytes": 72412,
+"glb": "npc/npc/rocmountainquest_youngwoman1.glb",
+"height": 16.983702659606934,
+"meshes": 4
+},
+"npc\\npc\\rocmountainquest_youngwoman2.bsr": {
+"bytes": 134228,
+"glb": "npc/npc/rocmountainquest_youngwoman2.glb",
+"height": 16.785655975341797,
+"meshes": 5
+},
+"npc\\npc\\rocmountainshop_villagechief.bsr": {
+"bytes": 80676,
+"glb": "npc/npc/rocmountainshop_villagechief.glb",
+"height": 18.05488659814,
+"meshes": 4
+},
+"npc\\npc\\snakegate.bsr": {
+"bytes": 44136,
+"glb": "npc/npc/snakegate.glb",
+"height": 169.19374465942383,
+"meshes": 1
+},
+"npc\\npc\\taklamakansystem_tunnel_no.bsr": {
+"bytes": 69848,
+"glb": "npc/npc/taklamakansystem_tunnel_no.glb",
+"height": 18.56460426747799,
+"meshes": 4
+},
+"npc\\npc\\taklamakansystem_tunnel_so.bsr": {
+"bytes": 69620,
+"glb": "npc/npc/taklamakansystem_tunnel_so.glb",
+"height": 18.56460426747799,
+"meshes": 4
+},
+"npc\\npc\\thiefden_thief_a.bsr": {
+"bytes": 111264,
+"glb": "npc/npc/thiefden_thief_a.glb",
+"height": 24.617318481206894,
+"meshes": 2
+},
+"npc\\npc\\thiefden_thief_b.bsr": {
+"bytes": 121240,
+"glb": "npc/npc/thiefden_thief_b.glb",
+"height": 21.451542953960598,
+"meshes": 3
+},
+"npc\\npc\\thiefden_thief_c.bsr": {
+"bytes": 107752,
+"glb": "npc/npc/thiefden_thief_c.glb",
+"height": 14.642569845542312,
+"meshes": 2
+},
+"npc\\npc\\thiefden_thief_d.bsr": {
+"bytes": 84516,
+"glb": "npc/npc/thiefden_thief_d.glb",
+"height": 19.668043233454227,
+"meshes": 4
+},
+"npc\\npc\\thiefden_thief_e.bsr": {
+"bytes": 93228,
+"glb": "npc/npc/thiefden_thief_e.glb",
+"height": 18.501635506749153,
+"meshes": 4
+},
+"npc\\npc\\treasurebox.bsr": {
+"bytes": 25832,
+"glb": "npc/npc/treasurebox.glb",
+"height": 23.352115631103516,
+"meshes": 1
+},
+"npc\\npc\\westchinaetc_maintemplepriest.bsr": {
+"bytes": 48684,
+"glb": "npc/npc/westchinaetc_maintemplepriest.glb",
+"height": 16.234983570873737,
+"meshes": 3
+},
+"npc\\npc\\westchinaetc_soldiereast1.bsr": {
+"bytes": 68244,
+"glb": "npc/npc/westchinaetc_soldiereast1.glb",
+"height": 24.92221975326538,
+"meshes": 4
+},
+"npc\\npc\\westchinaetc_soldiereast2.bsr": {
+"bytes": 68168,
+"glb": "npc/npc/westchinaetc_soldiereast2.glb",
+"height": 24.92221975326538,
+"meshes": 4
+},
+"npc\\npc\\westchinaetc_soldiersouth1.bsr": {
+"bytes": 68308,
+"glb": "npc/npc/westchinaetc_soldiersouth1.glb",
+"height": 18.42206969484687,
+"meshes": 4
+},
+"npc\\npc\\westchinaetc_soldierwest1.bsr": {
+"bytes": 68128,
+"glb": "npc/npc/westchinaetc_soldierwest1.glb",
+"height": 24.92221975326538,
+"meshes": 4
+},
+"npc\\npc\\westchinaetc_soldierwest2.bsr": {
+"bytes": 68216,
+"glb": "npc/npc/westchinaetc_soldierwest2.glb",
+"height": 24.92221975326538,
+"meshes": 4
+},
+"npc\\npc\\westchinaquest_doctor.bsr": {
+"bytes": 48564,
+"glb": "npc/npc/westchinaquest_doctor.glb",
+"height": 16.71046534180641,
+"meshes": 4
+},
+"npc\\npc\\westchinaquest_hyunjang.bsr": {
+"bytes": 148972,
+"glb": "npc/npc/westchinaquest_hyunjang.glb",
+"height": 20.003015965223312,
+"meshes": 7
+},
+"npc\\npc\\westchinaquest_merchant_bow.bsr": {
+"bytes": 95536,
+"glb": "npc/npc/westchinaquest_merchant_bow.glb",
+"height": 19.48969615343958,
+"meshes": 4
+},
+"npc\\npc\\westchinaquest_merchant_spear.bsr": {
+"bytes": 95816,
+"glb": "npc/npc/westchinaquest_merchant_spear.glb",
+"height": 18.501635506749153,
+"meshes": 4
+},
+"npc\\npc\\westchinaquest_merchant_sword.bsr": {
+"bytes": 92464,
+"glb": "npc/npc/westchinaquest_merchant_sword.glb",
+"height": 19.668043233454227,
+"meshes": 4
+},
+"npc\\npc\\westchinaquest_oldman.bsr": {
+"bytes": 112804,
+"glb": "npc/npc/westchinaquest_oldman.glb",
+"height": 14.534100890159607,
+"meshes": 7
+},
+"npc\\npc\\westchinaquest_priest.bsr": {
+"bytes": 43192,
+"glb": "npc/npc/westchinaquest_priest.glb",
+"height": 17.464919397141784,
+"meshes": 4
+},
+"npc\\npc\\westchinashop_accessoryshopgirl.bsr": {
+"bytes": 66276,
+"glb": "npc/npc/westchinashop_accessoryshopgirl.glb",
+"height": 16.62329365685582,
+"meshes": 4
+},
+"npc\\npc\\westchinashop_armorshopgirl.bsr": {
+"bytes": 55560,
+"glb": "npc/npc/westchinashop_armorshopgirl.glb",
+"height": 16.502926936373115,
+"meshes": 4
+},
+"npc\\npc\\westchinashop_herbalistman.bsr": {
+"bytes": 49820,
+"glb": "npc/npc/westchinashop_herbalistman.glb",
+"height": 15.387784957885742,
+"meshes": 4
+},
+"npc\\npc\\westchinashop_smith.bsr": {
+"bytes": 64060,
+"glb": "npc/npc/westchinashop_smith.glb",
+"height": 15.190692365169525,
+"meshes": 5
+},
+"npc\\npc\\westchinashop_stableman.bsr": {
+"bytes": 382216,
+"glb": "npc/npc/westchinashop_stableman.glb",
+"height": 19.81471139192581,
+"meshes": 9
+},
+"npc\\npc\\westchinasystem_boatman1.bsr": {
+"bytes": 65196,
+"glb": "npc/npc/westchinasystem_boatman1.glb",
+"height": 16.334631759673357,
+"meshes": 4
+},
+"npc\\npc\\westchinasystem_warehousekeeper.bsr": {
+"bytes": 153820,
+"glb": "npc/npc/westchinasystem_warehousekeeper.glb",
+"height": 20.234860450029373,
+"meshes": 6
+},
+"npc\\npc\\westchinasystem_warehousekeeper_woman.bsr": {
+"bytes": 127296,
+"glb": "npc/npc/westchinasystem_warehousekeeper_woman.glb",
+"height": 16.955032348632812,
+"meshes": 6
+},
+"npc\\sd\\sd_arena_changer.bsr": {
+"bytes": 288040,
+"glb": "npc/sd/sd_arena_changer.glb",
+"height": 17.83889940008521,
+"meshes": 3
+},
+"npc\\sd\\sd_arena_manager.bsr": {
+"bytes": 54564,
+"glb": "npc/sd/sd_arena_manager.glb",
+"height": 20.2569831693545,
+"meshes": 2
+},
+"npc\\sd\\sd_guild_agent.bsr": {
+"bytes": 33168,
+"glb": "npc/sd/sd_guild_agent.glb",
+"height": 16.720434367656708,
+"meshes": 2
+},
+"npc\\sd\\sd_guild_agent2.bsr": {
+"bytes": 39736,
+"glb": "npc/sd/sd_guild_agent2.glb",
+"height": 16.39008077979088,
+"meshes": 3
+},
+"npc\\sd\\sd_guild_agent3.bsr": {
+"bytes": 106832,
+"glb": "npc/sd/sd_guild_agent3.glb",
+"height": 16.53524089604616,
+"meshes": 5
+},
+"npc\\sd\\sd_m_area_accessory.bsr": {
+"bytes": 185300,
+"glb": "npc/sd/sd_m_area_accessory.glb",
+"height": 16.745695114135742,
+"meshes": 2
+},
+"npc\\sd\\sd_m_area_ahha.bsr": {
+"bytes": 210512,
+"glb": "npc/sd/sd_m_area_ahha.glb",
+"height": 17.55703353881836,
+"meshes": 3
+},
+"npc\\sd\\sd_m_area_armor.bsr": {
+"bytes": 71216,
+"glb": "npc/sd/sd_m_area_armor.glb",
+"height": 18.572502598166466,
+"meshes": 4
+},
+"npc\\sd\\sd_m_area_berenice.bsr": {
+"bytes": 289144,
+"glb": "npc/sd/sd_m_area_berenice.glb",
+"height": 17.572003215551376,
+"meshes": 3
+},
+"npc\\sd\\sd_m_area_eyptsolider_1.bsr": {
+"bytes": 72492,
+"glb": "npc/sd/sd_m_area_eyptsolider_1.glb",
+"height": 21.682098870676782,
+"meshes": 2
+},
+"npc\\sd\\sd_m_area_eyptsolider_2.bsr": {
+"bytes": 82188,
+"glb": "npc/sd/sd_m_area_eyptsolider_2.glb",
+"height": 21.726768975657194,
+"meshes": 3
+},
+"npc\\sd\\sd_m_area_eyptsolider_3.bsr": {
+"bytes": 82256,
+"glb": "npc/sd/sd_m_area_eyptsolider_3.glb",
+"height": 21.726768975657194,
+"meshes": 3
+},
+"npc\\sd\\sd_m_area_ferry.bsr": {
+"bytes": 197424,
+"glb": "npc/sd/sd_m_area_ferry.glb",
+"height": 16.996393686160445,
+"meshes": 3
+},
+"npc\\sd\\sd_m_area_guild.bsr": {
+"bytes": 318216,
+"glb": "npc/sd/sd_m_area_guild.glb",
+"height": 20.57795093767345,
+"meshes": 4
+},
+"npc\\sd\\sd_m_area_horse.bsr": {
+"bytes": 191588,
+"glb": "npc/sd/sd_m_area_horse.glb",
+"height": 15.319908320903778,
+"meshes": 4
+},
+"npc\\sd\\sd_m_area_hunter.bsr": {
+"bytes": 323500,
+"glb": "npc/sd/sd_m_area_hunter.glb",
+"height": 18.27844988554716,
+"meshes": 3
+},
+"npc\\sd\\sd_m_area_lenenune.bsr": {
+"bytes": 180260,
+"glb": "npc/sd/sd_m_area_lenenune.glb",
+"height": 17.75361912790686,
+"meshes": 2
+},
+"npc\\sd\\sd_m_area_lighthouse.bsr": {
+"bytes": 180848,
+"glb": "npc/sd/sd_m_area_lighthouse.glb",
+"height": 18.714679718017578,
+"meshes": 3
+},
+"npc\\sd\\sd_m_area_maneto.bsr": {
+"bytes": 348864,
+"glb": "npc/sd/sd_m_area_maneto.glb",
+"height": 18.505299482494593,
+"meshes": 5
+},
+"npc\\sd\\sd_m_area_mentuhotep.bsr": {
+"bytes": 64588,
+"glb": "npc/sd/sd_m_area_mentuhotep.glb",
+"height": 19.3636531829834,
+"meshes": 2
+},
+"npc\\sd\\sd_m_area_mentuhotep_dead.bsr": {
+"bytes": 65880,
+"glb": "npc/sd/sd_m_area_mentuhotep_dead.glb",
+"height": 19.36365509033203,
+"meshes": 2
+},
+"npc\\sd\\sd_m_area_merchant.bsr": {
+"bytes": 182476,
+"glb": "npc/sd/sd_m_area_merchant.glb",
+"height": 17.46261501312256,
+"meshes": 2
+},
+"npc\\sd\\sd_m_area_potion.bsr": {
+"bytes": 187572,
+"glb": "npc/sd/sd_m_area_potion.glb",
+"height": 16.808435440063477,
+"meshes": 2
+},
+"npc\\sd\\sd_m_area_senmute.bsr": {
+"bytes": 316912,
+"glb": "npc/sd/sd_m_area_senmute.glb",
+"height": 19.44392967224121,
+"meshes": 4
+},
+"npc\\sd\\sd_m_area_smith.bsr": {
+"bytes": 169856,
+"glb": "npc/sd/sd_m_area_smith.glb",
+"height": 20.470600128173828,
+"meshes": 2
+},
+"npc\\sd\\sd_m_area_special.bsr": {
+"bytes": 352684,
+"glb": "npc/sd/sd_m_area_special.glb",
+"height": 17.146308419294655,
+"meshes": 3
+},
+"npc\\sd\\sd_m_area_special2.bsr": {
+"bytes": 323468,
+"glb": "npc/sd/sd_m_area_special2.glb",
+"height": 17.098303958773613,
+"meshes": 4
+},
+"npc\\sd\\sd_m_area_special3.bsr": {
+"bytes": 50380,
+"glb": "npc/sd/sd_m_area_special3.glb",
+"height": 16.35191464982927,
+"meshes": 4
+},
+"npc\\sd\\sd_m_area_warehouse.bsr": {
+"bytes": 360388,
+"glb": "npc/sd/sd_m_area_warehouse.glb",
+"height": 17.490538597106934,
+"meshes": 4
+},
+"npc\\sd\\sd_m_area_waterman_1.bsr": {
+"bytes": 37920,
+"glb": "npc/sd/sd_m_area_waterman_1.glb",
+"height": 18.318136085290462,
+"meshes": 2
+},
+"npc\\sd\\sd_m_area_waterman_2.bsr": {
+"bytes": 37328,
+"glb": "npc/sd/sd_m_area_waterman_2.glb",
+"height": 18.417484048753977,
+"meshes": 2
+},
+"npc\\sd\\sd_merchant_changer.bsr": {
+"bytes": 306828,
+"glb": "npc/sd/sd_merchant_changer.glb",
+"height": 15.288848154246807,
+"meshes": 3
+},
+"npc\\sd\\sd_t_area_accessory.bsr": {
+"bytes": 179064,
+"glb": "npc/sd/sd_t_area_accessory.glb",
+"height": 18.197583983186632,
+"meshes": 3
+},
+"npc\\sd\\sd_t_area_armor.bsr": {
+"bytes": 71216,
+"glb": "npc/sd/sd_t_area_armor.glb",
+"height": 18.572502598166466,
+"meshes": 4
+},
+"npc\\sd\\sd_t_area_guild2.bsr": {
+"bytes": 410712,
+"glb": "npc/sd/sd_t_area_guild2.glb",
+"height": 17.30934792291373,
+"meshes": 5
+},
+"npc\\sd\\sd_t_area_potion.bsr": {
+"bytes": 177564,
+"glb": "npc/sd/sd_t_area_potion.glb",
+"height": 18.224375509656966,
+"meshes": 4
+},
+"npc\\sd\\sd_t_area_smith.bsr": {
+"bytes": 234344,
+"glb": "npc/sd/sd_t_area_smith.glb",
+"height": 18.500165939331055,
+"meshes": 4
+},
+"npc\\sd\\sd_t_area_thief.bsr": {
+"bytes": 329480,
+"glb": "npc/sd/sd_t_area_thief.glb",
+"height": 16.76168254762888,
+"meshes": 3
+},
+"npc\\sd\\sd_t_area_warehouse2.bsr": {
+"bytes": 80972,
+"glb": "npc/sd/sd_t_area_warehouse2.glb",
+"height": 11.906680478692579,
+"meshes": 3
+},
+"npc\\sd\\sd_thief_agent_changer.bsr": {
+"bytes": 300240,
+"glb": "npc/sd/sd_thief_agent_changer.glb",
+"height": 15.341955753043294,
+"meshes": 4
+},
+"pet2\\demonridedoclex.bsr": {
+"bytes": 114536,
+"glb": "pet2/demonridedoclex.glb",
+"height": 2.5331974029541016e-06,
+"meshes": 2
+},
+"pet2\\lavahound_saddle.bsr": {
+"bytes": 96016,
+"glb": "pet2/lavahound_saddle.glb",
+"height": 9.93746280670166,
+"meshes": 1
+},
+"pet2\\nightfury_saddle.bsr": {
+"bytes": 145736,
+"glb": "pet2/nightfury_saddle.glb",
+"height": 6.982152938842773,
+"meshes": 4
+},
+"pet2\\pet_achates_a.bsr": {
+"bytes": 1075136,
+"glb": "pet2/pet_achates_a.glb",
+"height": 34.855188831686974,
+"meshes": 7
+},
+"pet2\\pet_bear_a.bsr": {
+"bytes": 239000,
+"glb": "pet2/pet_bear_a.glb",
+"height": 24.700711399316788,
+"meshes": 4
+},
+"pet2\\pet_bird_a.bsr": {
+"bytes": 274988,
+"glb": "pet2/pet_bird_a.glb",
+"height": 27.217477798461914,
+"meshes": 6
+},
+"pet2\\pet_bor_a.bsr": {
+"error": "no meshes"
+},
+"pet2\\pet_cat_a.bsr": {
+"bytes": 244672,
+"glb": "pet2/pet_cat_a.glb",
+"height": 26.469834089279175,
+"meshes": 5
+},
+"pet2\\pet_cat_a_saddle.bsr": {
+"bytes": 250052,
+"glb": "pet2/pet_cat_a_saddle.glb",
+"height": 26.469834089279175,
+"meshes": 6
+},
+"pet2\\pet_chief_rebel_bear.bsr": {
+"bytes": 175576,
+"glb": "pet2/pet_chief_rebel_bear.glb",
+"height": 30.367828369140625,
+"meshes": 1
+},
+"pet2\\pet_crocodile_a.bsr": {
+"bytes": 240040,
+"glb": "pet2/pet_crocodile_a.glb",
+"height": 24.631783485412598,
+"meshes": 6
+},
+"pet2\\pet_cyberdog_a_saddle.bsr": {
+"bytes": 284856,
+"glb": "pet2/pet_cyberdog_a_saddle.glb",
+"height": 27.110232889652252,
+"meshes": 4
+},
+"pet2\\pet_dinosaur_a.bsr": {
+"bytes": 315936,
+"glb": "pet2/pet_dinosaur_a.glb",
+"height": 32.09983253479004,
+"meshes": 6
+},
+"pet2\\pet_dog_a.bsr": {
+"bytes": 226564,
+"glb": "pet2/pet_dog_a.glb",
+"height": 31.702151000499725,
+"meshes": 2
+},
+"pet2\\pet_dragon_a.bsr": {
+"bytes": 311316,
+"glb": "pet2/pet_dragon_a.glb",
+"height": 38.98981857299805,
+"meshes": 12
+},
+"pet2\\pet_dragon_b.bsr": {
+"bytes": 256512,
+"glb": "pet2/pet_dragon_b.glb",
+"height": 38.98981857299805,
+"meshes": 12
+},
+"pet2\\pet_fox_a.bsr": {
+"bytes": 191928,
+"glb": "pet2/pet_fox_a.glb",
+"height": 24.04607105255127,
+"meshes": 5
+},
+"pet2\\pet_gryphon_a.bsr": {
+"bytes": 203124,
+"glb": "pet2/pet_gryphon_a.glb",
+"height": 29.565362311899662,
+"meshes": 6
+},
+"pet2\\pet_jaguar_a.bsr": {
+"bytes": 276960,
+"glb": "pet2/pet_jaguar_a.glb",
+"height": 34.76033282279968,
+"meshes": 7
+},
+"pet2\\pet_kingkong_a.bsr": {
+"bytes": 186380,
+"glb": "pet2/pet_kingkong_a.glb",
+"height": 40.45344543457031,
+"meshes": 3
+},
+"pet2\\pet_lion_a.bsr": {
+"bytes": 179664,
+"glb": "pet2/pet_lion_a.glb",
+"height": 23.162479996681213,
+"meshes": 5
+},
+"pet2\\pet_lord_lyon_a_saddle.bsr": {
+"bytes": 706592,
+"glb": "pet2/pet_lord_lyon_a_saddle.glb",
+"height": 27.330884367227554,
+"meshes": 10
+},
+"pet2\\pet_lunar_a_saddle.bsr": {
+"bytes": 260880,
+"glb": "pet2/pet_lunar_a_saddle.glb",
+"height": 27.110232889652252,
+"meshes": 4
+},
+"pet2\\pet_ostrich_a.bsr": {
+"bytes": 245876,
+"glb": "pet2/pet_ostrich_a.glb",
+"height": 92.34073638916016,
+"meshes": 3
+},
+"pet2\\pet_ostrich_saddle1a.bsr": {
+"bytes": 418896,
+"glb": "pet2/pet_ostrich_saddle1a.glb",
+"height": 18.496322631835938,
+"meshes": 1
+},
+"pet2\\pet_ostrich_saddle1b.bsr": {
+"error": "no meshes"
+},
+"pet2\\pet_ostrich_saddle1c.bsr": {
+"error": "no meshes"
+},
+"pet2\\pet_ostrich_saddle1d.bsr": {
+"bytes": 710696,
+"glb": "pet2/pet_ostrich_saddle1d.glb",
+"height": 27.26445198059082,
+"meshes": 1
+},
+"pet2\\pet_polar_bear.bsr": {
+"error": "no meshes"
+},
+"pet2\\pet_qqt_miragewolf_a_saddle.bsr": {
+"bytes": 254184,
+"glb": "pet2/pet_qqt_miragewolf_a_saddle.glb",
+"height": 27.110232889652252,
+"meshes": 4
+},
+"pet2\\pet_white_kitsune_a_saddle.bsr": {
+"bytes": 416632,
+"glb": "pet2/pet_white_kitsune_a_saddle.glb",
+"height": 24.466977834701538,
+"meshes": 2
+},
+"pet2\\pet_wqt_devilhallow_a_saddle.bsr": {
+"bytes": 227540,
+"glb": "pet2/pet_wqt_devilhallow_a_saddle.glb",
+"height": 0.0058862268924713135,
+"meshes": 3
+},
+"pet2\\pet_zzt_venomwolf_a_saddle.bsr": {
+"bytes": 266712,
+"glb": "pet2/pet_zzt_venomwolf_a_saddle.glb",
+"height": 27.110232889652252,
+"meshes": 4
+},
+"pet2\\petdragon_jax.bsr": {
+"error": "no meshes"
+},
+"qiangweicos\\pet_qiangweidiewu_bird_a.bsr": {
+"error": "no meshes"
+},
+"quest\\event_01.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"quest\\ins_quest_teleport.bsr": {
+"bytes": 24596,
+"glb": "quest/ins_quest_teleport.glb",
+"height": 28.411161184310913,
+"meshes": 1
+},
+"quest\\red_ins_quest_teleport.bsr": {
+"bytes": 23200,
+"glb": "quest/red_ins_quest_teleport.glb",
+"height": 28.060617446899414,
+"meshes": 1
+},
+"quest\\red_ma1_quest_teleport.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"quest\\red_ma2_quest_teleport.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"quest\\red_ma3_quest_teleport.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"quest\\red_ma4_quest_teleport.bsr": {
+"error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"t0t9\\pet2\\top_s4a_1.bsr": {
+"error": "no meshes"
+}
+}
