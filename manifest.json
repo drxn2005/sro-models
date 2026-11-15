@@ -267,6 +267,13 @@
 "height": 38.522977113723755,
 "meshes": 4
 },
+"bldg\\arabia\\bagh_city\\bagh_city_portal.bsr": {
+"animated": true,
+"bytes": 402712,
+"glb": "bldg/arabia/bagh_city/bagh_city_portal.glb",
+"height": 123.36263728141785,
+"meshes": 8
+},
 "bldg\\arabia\\bagh_city\\bagh_city_rgate_door_event.bsr": {
 "animated": false,
 "bytes": 10340,
@@ -398,6 +405,13 @@
 "glb": "bldg/guild/jangan/big_gate_ja.glb",
 "height": 103.0085389316082,
 "meshes": 2
+},
+"bldg\\north africa\\alexandria\\alex_raid_portal.bsr": {
+"animated": true,
+"bytes": 73936,
+"glb": "bldg/north africa/alexandria/alex_raid_portal.glb",
+"height": 102.68127012252808,
+"meshes": 1
 },
 "char\\china\\chinaman_adventurer.bsr": {
 "animated": true,
@@ -6119,6 +6133,20 @@
 },
 "quest\\red_ma4_quest_teleport.bsr": {
 "error": "expected str, bytes or os.PathLike object, not NoneType"
+},
+"quest\\teleport01.bsr": {
+"animated": true,
+"bytes": 28548,
+"glb": "quest/teleport01.glb",
+"height": 64.32047271728516,
+"meshes": 3
+},
+"quest\\teleport02.bsr": {
+"animated": true,
+"bytes": 27588,
+"glb": "quest/teleport02.glb",
+"height": 64.32047271728516,
+"meshes": 3
 },
 "t0t9\\pet2\\top_s4a_1.bsr": {
 "error": "no meshes"
